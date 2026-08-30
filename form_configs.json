@@ -1,0 +1,1872 @@
+[
+  {
+    "firm_slug": "boroja-bernier-associates-pllc",
+    "form_name": "Estate Planning",
+    "brand": {
+      "firmName": "Boroja, Bernier & Associates PLLC",
+      "heroTitle": "Let's get your estate plan started.",
+      "heroSubtitle": "Complete this intake form and our team will be in touch.",
+      "logoUrl": "https://bbalawmi.com/wp-content/uploads/2022/08/bba-law-logo.svg",
+      "logoAlt": "Boroja, Bernier & Associates PLLC",
+      "webhookUrl": "PLACEHOLDER \u2014 set before going live",
+      "colors": {
+        "primary": "#1a3d6e",
+        "primaryDark": "#143058",
+        "primaryContainer": "#e8ebf0",
+        "onPrimary": "#ffffff"
+      },
+      "fonts": {
+        "heading": "'Comfortaa', sans-serif",
+        "body": "'Source Sans 3', sans-serif"
+      }
+    }
+  },
+  {
+    "firm_slug": "gottlieb-ostrager-llp",
+    "form_name": "Estate Planning",
+    "brand": {
+      "firmName": "Gottlieb Ostrager LLP",
+      "heroTitle": "Let's get your estate plan started.",
+      "heroSubtitle": "Complete this intake form and our team will be in touch.",
+      "logoUrl": "https://www.golawllp.com/wp-content/uploads/2021/05/GOLawLLP-Logo-2021.png",
+      "logoAlt": "Gottlieb Ostrager LLP",
+      "webhookUrl": "PLACEHOLDER \u2014 set before going live",
+      "colors": {
+        "primary": "#4d7994",
+        "primaryDark": "#3d6076",
+        "primaryContainer": "#edf1f4",
+        "onPrimary": "#ffffff"
+      },
+      "fonts": {
+        "heading": "'Poppins', sans-serif",
+        "body": "'Source Sans 3', sans-serif"
+      }
+    }
+  },
+  {
+    "firm_slug": "taylor-huguley-powers-pllc",
+    "form_name": "Estate Planning",
+    "brand": {
+      "firmName": "TAYLOR HUGULEY POWERS PLLC",
+      "heroTitle": "Let's get your estate plan started.",
+      "heroSubtitle": "Complete this intake form and our team will be in touch.",
+      "logoUrl": "https://www.thpfamilylaw.com/wp-content/themes/thpfamilylaw/images/logo.webp",
+      "logoAlt": "TAYLOR HUGULEY POWERS PLLC",
+      "webhookUrl": "PLACEHOLDER \u2014 set before going live",
+      "colors": {
+        "primary": "#0073a8",
+        "primaryDark": "#005c86",
+        "primaryContainer": "#e5f1f6",
+        "onPrimary": "#ffffff"
+      },
+      "fonts": {
+        "heading": "'Poppins', sans-serif",
+        "body": "'Source Sans 3', sans-serif"
+      }
+    }
+  },
+  {
+    "firm_slug": "hoke-llc",
+    "form_name": "Estate Planning",
+    "brand": {
+      "firmName": "Hoke LLC",
+      "heroTitle": "Let's get your estate plan started.",
+      "heroSubtitle": "Complete this intake form and our team will be in touch.",
+      "logoUrl": "https://www.hokellc.com/images/logo.png",
+      "logoAlt": "Hoke LLC",
+      "webhookUrl": "PLACEHOLDER \u2014 set before going live",
+      "colors": {
+        "primary": "#e22322",
+        "primaryDark": "#b41c1b",
+        "primaryContainer": "#fce9e8",
+        "onPrimary": "#ffffff"
+      },
+      "fonts": {
+        "heading": "'Comfortaa', sans-serif",
+        "body": "'Source Sans 3', sans-serif"
+      }
+    }
+  },
+  {
+    "firm_slug": "johnson-ritchey-family-law-pllc",
+    "form_name": "Estate Planning",
+    "brand": {
+      "firmName": "Johnson Ritchey Family Law, PLLC",
+      "heroTitle": "Let's get your estate plan started.",
+      "heroSubtitle": "Complete this intake form and our team will be in touch.",
+      "logoUrl": "https://www.jrfamilylaw.com/wp-content/uploads/2023/04/johnson-ritchey-logo.png",
+      "logoAlt": "Johnson Ritchey Family Law, PLLC",
+      "webhookUrl": "PLACEHOLDER \u2014 set before going live",
+      "colors": {
+        "primary": "#7a3a1e",
+        "primaryDark": "#612e18",
+        "primaryContainer": "#f1ebe8",
+        "onPrimary": "#ffffff"
+      },
+      "fonts": {
+        "heading": "'Prata', sans-serif",
+        "body": "'Source Sans 3', sans-serif"
+      }
+    }
+  },
+  {
+    "firm_slug": "veterans-first-legal",
+    "form_name": "Estate Planning",
+    "brand": {
+      "firmName": "Veterans First Legal",
+      "heroTitle": "Let's get your estate plan started.",
+      "heroSubtitle": "Complete this intake form and our team will be in touch.",
+      "logoUrl": "https://cdn.prod.website-files.com/6a4b35446dda2a465804434b/6a4ca018e210184b94ef3309_VFL%20LOGO%20Horizontal%20transparent.svg",
+      "logoAlt": "Veterans First Legal",
+      "webhookUrl": "PLACEHOLDER \u2014 set before going live",
+      "colors": {
+        "primary": "#272b21",
+        "primaryDark": "#1f221a",
+        "primaryContainer": "#e9e9e8",
+        "onPrimary": "#ffffff"
+      },
+      "fonts": {
+        "heading": "'Public Sans', sans-serif",
+        "body": "'Source Sans 3', sans-serif"
+      }
+    }
+  },
+  {
+    "firm_slug": "medura-maxwell-llc",
+    "form_name": "Estate Planning",
+    "brand": {
+      "firmName": "Medura & Maxwell, LLC",
+      "heroTitle": "Let's get your estate plan started.",
+      "heroSubtitle": "Complete this intake form and our team will be in touch.",
+      "logoUrl": null,
+      "logoAlt": "Medura & Maxwell, LLC",
+      "webhookUrl": "PLACEHOLDER \u2014 set before going live",
+      "colors": {
+        "primary": "#5c3d6e",
+        "primaryDark": "#493058",
+        "primaryContainer": "#eeebf0",
+        "onPrimary": "#ffffff"
+      },
+      "fonts": {
+        "heading": "'Comfortaa', sans-serif",
+        "body": "'Source Sans 3', sans-serif"
+      }
+    }
+  },
+  {
+    "firm_slug": "baumgard-fedance-llp",
+    "form_name": "Estate Planning",
+    "brand": {
+      "firmName": "Baumgard + Fedance LLP",
+      "heroTitle": "Let's get your estate plan started.",
+      "heroSubtitle": "Complete this intake form and our team will be in touch.",
+      "logoUrl": "https://baumgardlaw.com/assets/images/logos/logo.svg",
+      "logoAlt": "Baumgard + Fedance LLP",
+      "webhookUrl": "PLACEHOLDER \u2014 set before going live",
+      "colors": {
+        "primary": "#9fc4a1",
+        "primaryDark": "#7f9c80",
+        "primaryContainer": "#f5f9f5",
+        "onPrimary": "#ffffff"
+      },
+      "fonts": {
+        "heading": "'Roboto', sans-serif",
+        "body": "'Source Sans 3', sans-serif"
+      }
+    }
+  },
+  {
+    "firm_slug": "kemmitt-sanford-kramer-law-pllc",
+    "form_name": "Estate Planning",
+    "brand": {
+      "firmName": "Kemmitt, Sanford, & Kramer Law PLLC",
+      "heroTitle": "Let's get your estate plan started.",
+      "heroSubtitle": "Complete this intake form and our team will be in touch.",
+      "logoUrl": "https://ksk.law/wp-content/uploads/2021/11/logo-white-02.svg",
+      "logoAlt": "Kemmitt, Sanford, & Kramer Law PLLC",
+      "webhookUrl": "PLACEHOLDER \u2014 set before going live",
+      "colors": {
+        "primary": "#101936",
+        "primaryDark": "#0c142b",
+        "primaryContainer": "#e7e8ea",
+        "onPrimary": "#ffffff"
+      },
+      "fonts": {
+        "heading": "'Roboto', sans-serif",
+        "body": "'Source Sans 3', sans-serif"
+      }
+    }
+  },
+  {
+    "firm_slug": "cummings-cummings-law",
+    "form_name": "Estate Planning",
+    "brand": {
+      "firmName": "Cummings & Cummings Law",
+      "heroTitle": "Let's get your estate plan started.",
+      "heroSubtitle": "Complete this intake form and our team will be in touch.",
+      "logoUrl": null,
+      "logoAlt": "Cummings & Cummings Law",
+      "webhookUrl": "PLACEHOLDER \u2014 set before going live",
+      "colors": {
+        "primary": "#070b18",
+        "primaryDark": "#050813",
+        "primaryContainer": "#e6e6e7",
+        "onPrimary": "#ffffff"
+      },
+      "fonts": {
+        "heading": "'Comfortaa', sans-serif",
+        "body": "'Source Sans 3', sans-serif"
+      }
+    }
+  },
+  {
+    "firm_slug": "msg-accountants-consultants-business-valuators",
+    "form_name": "Estate Planning",
+    "brand": {
+      "firmName": "MSG Accountants, Consultants & Business Valuators",
+      "heroTitle": "Let's get your estate plan started.",
+      "heroSubtitle": "Complete this intake form and our team will be in touch.",
+      "logoUrl": "https://www.msgcpa.com/wp-content/themes/paperstreet/images/logo_new_white_gold.svg",
+      "logoAlt": "MSG Accountants, Consultants & Business Valuators",
+      "webhookUrl": "PLACEHOLDER \u2014 set before going live",
+      "colors": {
+        "primary": "#c9a84c",
+        "primaryDark": "#a0863c",
+        "primaryContainer": "#f9f6ed",
+        "onPrimary": "#ffffff"
+      },
+      "fonts": {
+        "heading": "'Montserrat', sans-serif",
+        "body": "'Source Sans 3', sans-serif"
+      }
+    }
+  },
+  {
+    "firm_slug": "career-consulting-partners",
+    "form_name": "Estate Planning",
+    "brand": {
+      "firmName": "Career Consulting Partners",
+      "heroTitle": "Let's get your estate plan started.",
+      "heroSubtitle": "Complete this intake form and our team will be in touch.",
+      "logoUrl": "https://images.teamtailor-cdn.com/images/s3/teamtailor-na-maroon/logotype-v3/image_uploads/3cd566f1-4708-428f-89c8-ae46b6bb62cc/original.png",
+      "logoAlt": "Career Consulting Partners",
+      "webhookUrl": "PLACEHOLDER \u2014 set before going live",
+      "colors": {
+        "primary": "#045567",
+        "primaryDark": "#034452",
+        "primaryContainer": "#e5eeef",
+        "onPrimary": "#ffffff"
+      },
+      "fonts": {
+        "heading": "'Montserrat', sans-serif",
+        "body": "'Source Sans 3', sans-serif"
+      }
+    }
+  },
+  {
+    "firm_slug": "starbuck-law-firm-llc",
+    "form_name": "Estate Planning",
+    "brand": {
+      "firmName": "Starbuck Law Firm, LLC",
+      "heroTitle": "Let's get your estate plan started.",
+      "heroSubtitle": "Complete this intake form and our team will be in touch.",
+      "logoUrl": "https://clio-grow-production.s3.amazonaws.com/accounts/logos/64405/original/STARBUCK_LAW_FIRM_LOGO_-_JPEG.jpg",
+      "logoAlt": "Starbuck Law Firm, LLC",
+      "webhookUrl": "PLACEHOLDER \u2014 set before going live",
+      "colors": {
+        "primary": "#d1ab66",
+        "primaryDark": "#a78851",
+        "primaryContainer": "#faf6ef",
+        "onPrimary": "#ffffff"
+      },
+      "fonts": {
+        "heading": "'Lato', sans-serif",
+        "body": "'Source Sans 3', sans-serif"
+      }
+    }
+  },
+  {
+    "firm_slug": "alexander-pelli-llc",
+    "form_name": "Estate Planning",
+    "brand": {
+      "firmName": "Alexander & Pelli, LLC",
+      "heroTitle": "Let's get your estate plan started.",
+      "heroSubtitle": "Complete this intake form and our team will be in touch.",
+      "logoUrl": "https://clio-grow-production.s3.amazonaws.com/accounts/logos/59602/original/A_P_Logo_white_background_cropped.jpg",
+      "logoAlt": "Alexander & Pelli, LLC",
+      "webhookUrl": "PLACEHOLDER \u2014 set before going live",
+      "colors": {
+        "primary": "#04304c",
+        "primaryDark": "#03263c",
+        "primaryContainer": "#e5eaed",
+        "onPrimary": "#ffffff"
+      },
+      "fonts": {
+        "heading": "'Montserrat', sans-serif",
+        "body": "'Source Sans 3', sans-serif"
+      }
+    }
+  },
+  {
+    "firm_slug": "herrera-law",
+    "form_name": "Estate Planning",
+    "brand": {
+      "firmName": "Herrera Law",
+      "heroTitle": "Let's get your estate plan started.",
+      "heroSubtitle": "Complete this intake form and our team will be in touch.",
+      "logoUrl": "https://img1.wsimg.com/isteam/ip/29eaa84c-3d71-48ff-9590-693a33790321/Letterhead%20Logo-01.svg/:/rs=h:100,cg:true,m/qt=q:95",
+      "logoAlt": "Herrera Law",
+      "webhookUrl": "PLACEHOLDER \u2014 set before going live",
+      "colors": {
+        "primary": "#9cb1c9",
+        "primaryDark": "#7c8da0",
+        "primaryContainer": "#f5f7f9",
+        "onPrimary": "#ffffff"
+      },
+      "fonts": {
+        "heading": "'Lato', sans-serif",
+        "body": "'Source Sans 3', sans-serif"
+      }
+    }
+  },
+  {
+    "firm_slug": "chicago-trusted-attorneys",
+    "form_name": "Estate Planning",
+    "brand": {
+      "firmName": "Chicago Trusted Attorneys",
+      "heroTitle": "Let's get your estate plan started.",
+      "heroSubtitle": "Complete this intake form and our team will be in touch.",
+      "logoUrl": null,
+      "logoAlt": "Chicago Trusted Attorneys",
+      "webhookUrl": "PLACEHOLDER \u2014 set before going live",
+      "colors": {
+        "primary": "#7a2e3b",
+        "primaryDark": "#5e2230",
+        "primaryContainer": "#f0ead8",
+        "onPrimary": "#ffffff"
+      },
+      "fonts": {
+        "heading": "'Comfortaa', sans-serif",
+        "body": "'Source Sans 3', sans-serif"
+      }
+    }
+  },
+  {
+    "firm_slug": "factorlaw",
+    "form_name": "Estate Planning",
+    "brand": {
+      "firmName": "FactorLaw",
+      "heroTitle": "Let's get your estate plan started.",
+      "heroSubtitle": "Complete this intake form and our team will be in touch.",
+      "logoUrl": "https://www.wfactorlaw.com/wp-content/uploads/sites/645/2022/11/logo-factor.png",
+      "logoAlt": "FactorLaw",
+      "webhookUrl": "PLACEHOLDER \u2014 set before going live",
+      "colors": {
+        "primary": "#4b4ea1",
+        "primaryDark": "#3c3e80",
+        "primaryContainer": "#ededf5",
+        "onPrimary": "#ffffff"
+      },
+      "fonts": {
+        "heading": "'Roboto', sans-serif",
+        "body": "'Source Sans 3', sans-serif"
+      }
+    }
+  },
+  {
+    "firm_slug": "mann-law",
+    "form_name": "Estate Planning",
+    "brand": {
+      "firmName": "Mann Law",
+      "heroTitle": "Let's get your estate plan started.",
+      "heroSubtitle": "Complete this intake form and our team will be in touch.",
+      "logoUrl": "https://www.mannlawllc.com/wp-content/uploads/2022/02/logo-new.png",
+      "logoAlt": "Mann Law",
+      "webhookUrl": "PLACEHOLDER \u2014 set before going live",
+      "colors": {
+        "primary": "#007bff",
+        "primaryDark": "#0062cc",
+        "primaryContainer": "#e5f1ff",
+        "onPrimary": "#ffffff"
+      },
+      "fonts": {
+        "heading": "'Playfair Display', sans-serif",
+        "body": "'Source Sans 3', sans-serif"
+      }
+    }
+  },
+  {
+    "firm_slug": "crabtree-law-firm-pllc",
+    "form_name": "Estate Planning",
+    "brand": {
+      "firmName": "Crabtree Law Firm PLLC",
+      "heroTitle": "Let's get your estate plan started.",
+      "heroSubtitle": "Complete this intake form and our team will be in touch.",
+      "logoUrl": null,
+      "logoAlt": "Crabtree Law Firm PLLC",
+      "webhookUrl": "PLACEHOLDER \u2014 set before going live",
+      "colors": {
+        "primary": "#1e5c8a",
+        "primaryDark": "#18496e",
+        "primaryContainer": "#e8eef3",
+        "onPrimary": "#ffffff"
+      },
+      "fonts": {
+        "heading": "'Montserrat', sans-serif",
+        "body": "'Source Sans 3', sans-serif"
+      }
+    }
+  },
+  {
+    "firm_slug": "mitchell-law-firm-pc",
+    "form_name": "Estate Planning",
+    "brand": {
+      "firmName": "Mitchell Law Firm PC",
+      "heroTitle": "Let's get your estate plan started.",
+      "heroSubtitle": "Complete this intake form and our team will be in touch.",
+      "logoUrl": "https://mitchlawfirm.com/wp-content/uploads/2025/04/Mitchell-Law-Social-Media-Posts-FEBRUARY-Logo-3.png",
+      "logoAlt": "Mitchell Law Firm PC",
+      "webhookUrl": "PLACEHOLDER \u2014 set before going live",
+      "colors": {
+        "primary": "#007bff",
+        "primaryDark": "#0062cc",
+        "primaryContainer": "#e5f1ff",
+        "onPrimary": "#ffffff"
+      },
+      "fonts": {
+        "heading": "'Montserrat', sans-serif",
+        "body": "'Source Sans 3', sans-serif"
+      }
+    }
+  },
+  {
+    "firm_slug": "jeppson-law-llp",
+    "form_name": "Estate Planning",
+    "brand": {
+      "firmName": "Jeppson Law, LLP",
+      "heroTitle": "Let's get your estate plan started.",
+      "heroSubtitle": "Complete this intake form and our team will be in touch.",
+      "logoUrl": "https://cdn.prod.website-files.com/67d7e619f3730f21d0622c2f/67d8170fe7680d8cfcd131b6_Jeppson%20Law.svg",
+      "logoAlt": "Jeppson Law, LLP",
+      "webhookUrl": "PLACEHOLDER \u2014 set before going live",
+      "colors": {
+        "primary": "#062c43",
+        "primaryDark": "#042335",
+        "primaryContainer": "#e6e9ec",
+        "onPrimary": "#ffffff"
+      },
+      "fonts": {
+        "heading": "'Lato', sans-serif",
+        "body": "'Source Sans 3', sans-serif"
+      }
+    }
+  },
+  {
+    "firm_slug": "whittaker-law-llc",
+    "form_name": "Estate Planning",
+    "brand": {
+      "firmName": "Whittaker Law, LLC",
+      "heroTitle": "Let's get your estate plan started.",
+      "heroSubtitle": "Complete this intake form and our team will be in touch.",
+      "logoUrl": "https://images.squarespace-cdn.com/content/v1/68d711d8e3a9f90ba78184e6/13b6f6f7-69d9-4bef-90a0-291ac729cbb0/WL_logo_small-removebg-preview.png?format=1500w",
+      "logoAlt": "Whittaker Law, LLC",
+      "webhookUrl": "PLACEHOLDER \u2014 set before going live",
+      "colors": {
+        "primary": "#240772",
+        "primaryDark": "#1c055b",
+        "primaryContainer": "#e9e6f0",
+        "onPrimary": "#ffffff"
+      },
+      "fonts": {
+        "heading": "'Comfortaa', sans-serif",
+        "body": "'Source Sans 3', sans-serif"
+      }
+    }
+  },
+  {
+    "firm_slug": "flanigan-roth-pllc",
+    "form_name": "Estate Planning",
+    "brand": {
+      "firmName": "Flanigan & Roth, PLLC",
+      "heroTitle": "Let's get your estate plan started.",
+      "heroSubtitle": "Complete this intake form and our team will be in touch.",
+      "logoUrl": "https://clio-grow-production.s3.amazonaws.com/accounts/logos/87665/original/Logo_Backdrop.jpg",
+      "logoAlt": "Flanigan & Roth, PLLC",
+      "webhookUrl": "PLACEHOLDER \u2014 set before going live",
+      "colors": {
+        "primary": "#006edd",
+        "primaryDark": "#0058b0",
+        "primaryContainer": "#e5f0fb",
+        "onPrimary": "#ffffff"
+      },
+      "fonts": {
+        "heading": "'Lato', sans-serif",
+        "body": "'Source Sans 3', sans-serif"
+      }
+    }
+  },
+  {
+    "firm_slug": "blaine-vanzant-llp",
+    "form_name": "Estate Planning",
+    "brand": {
+      "firmName": "Blaine & Vanzant, LLP",
+      "heroTitle": "Let's get your estate plan started.",
+      "heroSubtitle": "Complete this intake form and our team will be in touch.",
+      "logoUrl": "https://images.squarespace-cdn.com/content/v1/5ccc9eb4c2ff6140a8a04bde/1591381196973-3XIPY12A73S55758YCKS/icon.png",
+      "logoAlt": "Blaine & Vanzant, LLP",
+      "webhookUrl": "PLACEHOLDER \u2014 set before going live",
+      "colors": {
+        "primary": "#081b33",
+        "primaryDark": "#061528",
+        "primaryContainer": "#e6e8ea",
+        "onPrimary": "#ffffff"
+      },
+      "fonts": {
+        "heading": "'Comfortaa', sans-serif",
+        "body": "'Source Sans 3', sans-serif"
+      }
+    }
+  },
+  {
+    "firm_slug": "colorado-trial-lawyers-association",
+    "form_name": "Estate Planning",
+    "brand": {
+      "firmName": "Colorado Trial Lawyers Association",
+      "heroTitle": "Let's get your estate plan started.",
+      "heroSubtitle": "Complete this intake form and our team will be in touch.",
+      "logoUrl": null,
+      "logoAlt": "Colorado Trial Lawyers Association",
+      "webhookUrl": "PLACEHOLDER \u2014 set before going live",
+      "colors": {
+        "primary": "#c0392b",
+        "primaryDark": "#992d22",
+        "primaryContainer": "#f8ebe9",
+        "onPrimary": "#ffffff"
+      },
+      "fonts": {
+        "heading": "'Roboto', sans-serif",
+        "body": "'Source Sans 3', sans-serif"
+      }
+    }
+  },
+  {
+    "firm_slug": "edwards-estate-elder-law",
+    "form_name": "Estate Planning",
+    "brand": {
+      "firmName": "Edwards Estate & Elder Law",
+      "heroTitle": "Let's get your estate plan started.",
+      "heroSubtitle": "Complete this intake form and our team will be in touch.",
+      "logoUrl": "https://edwardsestatelaw.com/wp-content/uploads/2024/05/edwards-estate-law-logo-flat.png",
+      "logoAlt": "Edwards Estate & Elder Law",
+      "webhookUrl": "PLACEHOLDER \u2014 set before going live",
+      "colors": {
+        "primary": "#0a4c88",
+        "primaryDark": "#083c6c",
+        "primaryContainer": "#e6edf3",
+        "onPrimary": "#ffffff"
+      },
+      "fonts": {
+        "heading": "'Mulish', sans-serif",
+        "body": "'Source Sans 3', sans-serif"
+      }
+    }
+  },
+  {
+    "firm_slug": "saikin-rosenberg-pllc",
+    "form_name": "Estate Planning",
+    "brand": {
+      "firmName": "Saikin Rosenberg, PLLC",
+      "heroTitle": "Let's get your estate plan started.",
+      "heroSubtitle": "Complete this intake form and our team will be in touch.",
+      "logoUrl": "https://www.saikrose.com/wp-content/uploads/2025/04/saikin-rosenberg-full-white.png",
+      "logoAlt": "Saikin Rosenberg, PLLC",
+      "webhookUrl": "PLACEHOLDER \u2014 set before going live",
+      "colors": {
+        "primary": "#2c3e5c",
+        "primaryDark": "#233149",
+        "primaryContainer": "#e9ebee",
+        "onPrimary": "#ffffff"
+      },
+      "fonts": {
+        "heading": "'Montserrat', sans-serif",
+        "body": "'Source Sans 3', sans-serif"
+      }
+    }
+  },
+  {
+    "firm_slug": "bizjet-law",
+    "form_name": "Estate Planning",
+    "brand": {
+      "firmName": "Bizjet Law",
+      "heroTitle": "Let's get your estate plan started.",
+      "heroSubtitle": "Complete this intake form and our team will be in touch.",
+      "logoUrl": "https://bizjetlaw.com/wp-content/uploads/2022/06/jet-logo-white.png",
+      "logoAlt": "Bizjet Law",
+      "webhookUrl": "PLACEHOLDER \u2014 set before going live",
+      "colors": {
+        "primary": "#003580",
+        "primaryDark": "#002a66",
+        "primaryContainer": "#e5eaf2",
+        "onPrimary": "#ffffff"
+      },
+      "fonts": {
+        "heading": "'Montserrat', sans-serif",
+        "body": "'Source Sans 3', sans-serif"
+      }
+    }
+  },
+  {
+    "firm_slug": "shelley-schulte-pc",
+    "form_name": "Estate Planning",
+    "brand": {
+      "firmName": "Shelley & Schulte, P.C.",
+      "heroTitle": "Let's get your estate plan started.",
+      "heroSubtitle": "Complete this intake form and our team will be in touch.",
+      "logoUrl": null,
+      "logoAlt": "Shelley & Schulte, P.C.",
+      "webhookUrl": "PLACEHOLDER \u2014 set before going live",
+      "colors": {
+        "primary": "#ac352c",
+        "primaryDark": "#892a23",
+        "primaryContainer": "#f6eae9",
+        "onPrimary": "#ffffff"
+      },
+      "fonts": {
+        "heading": "'Montserrat', sans-serif",
+        "body": "'Source Sans 3', sans-serif"
+      }
+    }
+  },
+  {
+    "firm_slug": "the-jones-law-firm-llc",
+    "form_name": "Estate Planning",
+    "brand": {
+      "firmName": "The Jones Law Firm, LLC",
+      "heroTitle": "Let's get your estate plan started.",
+      "heroSubtitle": "Complete this intake form and our team will be in touch.",
+      "logoUrl": "https://jonesbankruptcy.com/wp-content/uploads/2020/02/logo_1x.png",
+      "logoAlt": "The Jones Law Firm, LLC",
+      "webhookUrl": "PLACEHOLDER \u2014 set before going live",
+      "colors": {
+        "primary": "#045a5c",
+        "primaryDark": "#034849",
+        "primaryContainer": "#e5eeee",
+        "onPrimary": "#ffffff"
+      },
+      "fonts": {
+        "heading": "'Comfortaa', sans-serif",
+        "body": "'Source Sans 3', sans-serif"
+      }
+    }
+  },
+  {
+    "firm_slug": "walker-chambers",
+    "form_name": "Estate Planning",
+    "brand": {
+      "firmName": "Walker & Chambers",
+      "heroTitle": "Let's get your estate plan started.",
+      "heroSubtitle": "Complete this intake form and our team will be in touch.",
+      "logoUrl": "https://clio-grow-production.s3.amazonaws.com/accounts/logos/47428/original/2WC_Logo.JPG",
+      "logoAlt": "Walker & Chambers",
+      "webhookUrl": "PLACEHOLDER \u2014 set before going live",
+      "colors": {
+        "primary": "#006edd",
+        "primaryDark": "#0058b0",
+        "primaryContainer": "#e5f0fb",
+        "onPrimary": "#ffffff"
+      },
+      "fonts": {
+        "heading": "'Lato', sans-serif",
+        "body": "'Source Sans 3', sans-serif"
+      }
+    }
+  },
+  {
+    "firm_slug": "binkert-greene-llp",
+    "form_name": "Estate Planning",
+    "brand": {
+      "firmName": "Binkert Greene LLP",
+      "heroTitle": "Let's get your estate plan started.",
+      "heroSubtitle": "Complete this intake form and our team will be in touch.",
+      "logoUrl": "https://www.binkertgreenelaw.com/wp-content/uploads/2026/05/logo-color-1.png",
+      "logoAlt": "Binkert Greene LLP",
+      "webhookUrl": "PLACEHOLDER \u2014 set before going live",
+      "colors": {
+        "primary": "#4577af",
+        "primaryDark": "#375f8c",
+        "primaryContainer": "#ecf1f7",
+        "onPrimary": "#ffffff"
+      },
+      "fonts": {
+        "heading": "'Montserrat', sans-serif",
+        "body": "'Source Sans 3', sans-serif"
+      }
+    }
+  },
+  {
+    "firm_slug": "provey-conveyancing",
+    "form_name": "Estate Planning",
+    "brand": {
+      "firmName": "Provey Conveyancing",
+      "heroTitle": "Let's get your estate plan started.",
+      "heroSubtitle": "Complete this intake form and our team will be in touch.",
+      "logoUrl": "https://www.provey.com.au/wp-content/themes/provey/logos/liv.png",
+      "logoAlt": "Provey Conveyancing",
+      "webhookUrl": "PLACEHOLDER \u2014 set before going live",
+      "colors": {
+        "primary": "#fe5341",
+        "primaryDark": "#cb4234",
+        "primaryContainer": "#feedec",
+        "onPrimary": "#ffffff"
+      },
+      "fonts": {
+        "heading": "'Comfortaa', sans-serif",
+        "body": "'Source Sans 3', sans-serif"
+      }
+    }
+  },
+  {
+    "firm_slug": "olive-branch-counsel-pllc",
+    "form_name": "Estate Planning",
+    "brand": {
+      "firmName": "Olive Branch Counsel, PLLC",
+      "heroTitle": "Let's get your estate plan started.",
+      "heroSubtitle": "Complete this intake form and our team will be in touch.",
+      "logoUrl": "https://www.olivebranchcounsel.com/_next/image?url=%2Fassets%2Fobc-logo.png&w=96&q=75",
+      "logoAlt": "Olive Branch Counsel, PLLC",
+      "webhookUrl": "PLACEHOLDER \u2014 set before going live",
+      "colors": {
+        "primary": "#1a2744",
+        "primaryDark": "#141f36",
+        "primaryContainer": "#e8e9ec",
+        "onPrimary": "#ffffff"
+      },
+      "fonts": {
+        "heading": "'Cormorant Garamond', sans-serif",
+        "body": "'Source Sans 3', sans-serif"
+      }
+    }
+  },
+  {
+    "firm_slug": "dierks-law-firm",
+    "form_name": "Estate Planning",
+    "brand": {
+      "firmName": "Dierks Law Firm",
+      "heroTitle": "Let's get your estate plan started.",
+      "heroSubtitle": "Complete this intake form and our team will be in touch.",
+      "logoUrl": null,
+      "logoAlt": "Dierks Law Firm",
+      "webhookUrl": "PLACEHOLDER \u2014 set before going live",
+      "colors": {
+        "primary": "#8b7336",
+        "primaryDark": "#6f5c2b",
+        "primaryContainer": "#f3f1ea",
+        "onPrimary": "#ffffff"
+      },
+      "fonts": {
+        "heading": "'Playfair Display', sans-serif",
+        "body": "'Source Sans 3', sans-serif"
+      }
+    }
+  },
+  {
+    "firm_slug": "ferguson-law-group",
+    "form_name": "Estate Planning",
+    "brand": {
+      "firmName": "Ferguson Law Group",
+      "heroTitle": "Let's get your estate plan started.",
+      "heroSubtitle": "Complete this intake form and our team will be in touch.",
+      "logoUrl": "https://ferglawgroup.com/wp-content/uploads/header-logo.png",
+      "logoAlt": "Ferguson Law Group",
+      "webhookUrl": "PLACEHOLDER \u2014 set before going live",
+      "colors": {
+        "primary": "#1e4fa8",
+        "primaryDark": "#183f86",
+        "primaryContainer": "#e8edf6",
+        "onPrimary": "#ffffff"
+      },
+      "fonts": {
+        "heading": "'Montserrat', sans-serif",
+        "body": "'Source Sans 3', sans-serif"
+      }
+    }
+  },
+  {
+    "firm_slug": "lyon-legal-services",
+    "form_name": "Estate Planning",
+    "brand": {
+      "firmName": "Lyon Legal Services",
+      "heroTitle": "Let's get your estate plan started.",
+      "heroSubtitle": "Complete this intake form and our team will be in touch.",
+      "logoUrl": null,
+      "logoAlt": "Lyon Legal Services",
+      "webhookUrl": "PLACEHOLDER \u2014 set before going live",
+      "colors": {
+        "primary": "#7a2e3b",
+        "primaryDark": "#5e2230",
+        "primaryContainer": "#f0ead8",
+        "onPrimary": "#ffffff"
+      },
+      "fonts": {
+        "heading": "'Comfortaa', sans-serif",
+        "body": "'Source Sans 3', sans-serif"
+      }
+    }
+  },
+  {
+    "firm_slug": "scott-legal-group",
+    "form_name": "Estate Planning",
+    "brand": {
+      "firmName": "Scott Legal Group",
+      "heroTitle": "Let's get your estate plan started.",
+      "heroSubtitle": "Complete this intake form and our team will be in touch.",
+      "logoUrl": null,
+      "logoAlt": "Scott Legal Group",
+      "webhookUrl": "PLACEHOLDER \u2014 set before going live",
+      "colors": {
+        "primary": "#911388",
+        "primaryDark": "#740f6c",
+        "primaryContainer": "#f4e7f3",
+        "onPrimary": "#ffffff"
+      },
+      "fonts": {
+        "heading": "'Poppins', sans-serif",
+        "body": "'Source Sans 3', sans-serif"
+      }
+    }
+  },
+  {
+    "firm_slug": "kanazawa-day-pllc",
+    "form_name": "Estate Planning",
+    "brand": {
+      "firmName": "Kanazawa Day, PLLC",
+      "heroTitle": "Let's get your estate plan started.",
+      "heroSubtitle": "Complete this intake form and our team will be in touch.",
+      "logoUrl": "https://clio-grow-production.s3.amazonaws.com/accounts/logos/45844/original/Color_logo_with_background.png",
+      "logoAlt": "Kanazawa Day, PLLC",
+      "webhookUrl": "PLACEHOLDER \u2014 set before going live",
+      "colors": {
+        "primary": "#d1ab66",
+        "primaryDark": "#a78851",
+        "primaryContainer": "#faf6ef",
+        "onPrimary": "#ffffff"
+      },
+      "fonts": {
+        "heading": "'Lato', sans-serif",
+        "body": "'Source Sans 3', sans-serif"
+      }
+    }
+  },
+  {
+    "firm_slug": "truth-grace-law",
+    "form_name": "Estate Planning",
+    "brand": {
+      "firmName": "Truth & Grace Law",
+      "heroTitle": "Let's get your estate plan started.",
+      "heroSubtitle": "Complete this intake form and our team will be in touch.",
+      "logoUrl": "https://img1.wsimg.com/isteam/ip/a4bad128-696e-45e9-85be-d19edda3abe7/TG%20Law%20Logo%20fully%20transparent.png/:/rs=h:200,cg:true,m/qt=q:95",
+      "logoAlt": "Truth & Grace Law",
+      "webhookUrl": "PLACEHOLDER \u2014 set before going live",
+      "colors": {
+        "primary": "#011368",
+        "primaryDark": "#000f53",
+        "primaryContainer": "#e5e7ef",
+        "onPrimary": "#ffffff"
+      },
+      "fonts": {
+        "heading": "'Open Sans', sans-serif",
+        "body": "'Source Sans 3', sans-serif"
+      }
+    }
+  },
+  {
+    "firm_slug": "rose-legal-services-llc",
+    "form_name": "Estate Planning",
+    "brand": {
+      "firmName": "Rose Legal Services, LLC",
+      "heroTitle": "Let's get your estate plan started.",
+      "heroSubtitle": "Complete this intake form and our team will be in touch.",
+      "logoUrl": "https://cdn-hflij.nitrocdn.com/hCEynOIxeWuACRRvoFUfmDGdWyrhSVLE/assets/images/optimized/rev-78179a3/www.roselegalservices.com/wp-content/uploads/2026/03/logo.png",
+      "logoAlt": "Rose Legal Services, LLC",
+      "webhookUrl": "PLACEHOLDER \u2014 set before going live",
+      "colors": {
+        "primary": "#f15a29",
+        "primaryDark": "#c04820",
+        "primaryContainer": "#fdeee9",
+        "onPrimary": "#ffffff"
+      },
+      "fonts": {
+        "heading": "'Montserrat', sans-serif",
+        "body": "'Source Sans 3', sans-serif"
+      }
+    }
+  },
+  {
+    "firm_slug": "ruggiero-law-offices-llc",
+    "form_name": "Estate Planning",
+    "brand": {
+      "firmName": "Ruggiero Law Offices LLC",
+      "heroTitle": "Let's get your estate plan started.",
+      "heroSubtitle": "Complete this intake form and our team will be in touch.",
+      "logoUrl": "https://www.paolilaw.com/includes/default/images/logo.png?v=5.0.066",
+      "logoAlt": "Ruggiero Law Offices LLC",
+      "webhookUrl": "PLACEHOLDER \u2014 set before going live",
+      "colors": {
+        "primary": "#64002c",
+        "primaryDark": "#500023",
+        "primaryContainer": "#efe5e9",
+        "onPrimary": "#ffffff"
+      },
+      "fonts": {
+        "heading": "'Montserrat', sans-serif",
+        "body": "'Source Sans 3', sans-serif"
+      }
+    }
+  },
+  {
+    "firm_slug": "devoted-injury-lawyers-inc",
+    "form_name": "Estate Planning",
+    "brand": {
+      "firmName": "Devoted Injury Lawyers, Inc.",
+      "heroTitle": "Let's get your estate plan started.",
+      "heroSubtitle": "Complete this intake form and our team will be in touch.",
+      "logoUrl": "https://devotedinjurylawyers.com/brand/devoted-logo-full.png",
+      "logoAlt": "Devoted Injury Lawyers, Inc.",
+      "webhookUrl": "PLACEHOLDER \u2014 set before going live",
+      "colors": {
+        "primary": "#192a30",
+        "primaryDark": "#142126",
+        "primaryContainer": "#e8e9ea",
+        "onPrimary": "#ffffff"
+      },
+      "fonts": {
+        "heading": "'Inter', sans-serif",
+        "body": "'Source Sans 3', sans-serif"
+      }
+    }
+  },
+  {
+    "firm_slug": "fellows-hymowitz-rice",
+    "form_name": "Estate Planning",
+    "brand": {
+      "firmName": "Fellows Hymowitz Rice",
+      "heroTitle": "Let's get your estate plan started.",
+      "heroSubtitle": "Complete this intake form and our team will be in touch.",
+      "logoUrl": "https://cdn.prod.website-files.com/66aceca9bcddea2f67fde7f0/66b318f7cdf1ca872c9f582f_Logo.svg",
+      "logoAlt": "Fellows Hymowitz Rice",
+      "webhookUrl": "PLACEHOLDER \u2014 set before going live",
+      "colors": {
+        "primary": "#041b3a",
+        "primaryDark": "#03152e",
+        "primaryContainer": "#e5e8eb",
+        "onPrimary": "#ffffff"
+      },
+      "fonts": {
+        "heading": "'Comfortaa', sans-serif",
+        "body": "'Source Sans 3', sans-serif"
+      }
+    }
+  },
+  {
+    "firm_slug": "royal-tapp-clemko-pllc",
+    "form_name": "Estate Planning",
+    "brand": {
+      "firmName": "Royal Tapp & Clemko, PLLC",
+      "heroTitle": "Let's get your estate plan started.",
+      "heroSubtitle": "Complete this intake form and our team will be in touch.",
+      "logoUrl": "https://clio-grow-production.s3.amazonaws.com/accounts/logos/26978/original/logo_riginal_-_for_site_-_Cropped.png",
+      "logoAlt": "Royal Tapp & Clemko, PLLC",
+      "webhookUrl": "PLACEHOLDER \u2014 set before going live",
+      "colors": {
+        "primary": "#04304c",
+        "primaryDark": "#03263c",
+        "primaryContainer": "#e5eaed",
+        "onPrimary": "#ffffff"
+      },
+      "fonts": {
+        "heading": "'Montserrat', sans-serif",
+        "body": "'Source Sans 3', sans-serif"
+      }
+    }
+  },
+  {
+    "firm_slug": "feldman-kodsi",
+    "form_name": "Estate Planning",
+    "brand": {
+      "firmName": "Feldman Kodsi",
+      "heroTitle": "Let's get your estate plan started.",
+      "heroSubtitle": "Complete this intake form and our team will be in touch.",
+      "logoUrl": "https://feldmankodsi.com/wp-content/uploads/2021/07/FeldmanKodsiLogo.png",
+      "logoAlt": "Feldman Kodsi",
+      "webhookUrl": "PLACEHOLDER \u2014 set before going live",
+      "colors": {
+        "primary": "#186bb1",
+        "primaryDark": "#13558d",
+        "primaryContainer": "#e7f0f7",
+        "onPrimary": "#ffffff"
+      },
+      "fonts": {
+        "heading": "'Open Sans', sans-serif",
+        "body": "'Source Sans 3', sans-serif"
+      }
+    }
+  },
+  {
+    "firm_slug": "miami-family-law-group-pllc",
+    "form_name": "Estate Planning",
+    "brand": {
+      "firmName": "Miami Family Law Group, PLLC",
+      "heroTitle": "Let's get your estate plan started.",
+      "heroSubtitle": "Complete this intake form and our team will be in touch.",
+      "logoUrl": "https://miafamilylaw.com/wp-content/themes/paperstreet/images/logo.svg",
+      "logoAlt": "Miami Family Law Group, PLLC",
+      "webhookUrl": "PLACEHOLDER \u2014 set before going live",
+      "colors": {
+        "primary": "#136073",
+        "primaryDark": "#0f4c5c",
+        "primaryContainer": "#e7eff1",
+        "onPrimary": "#ffffff"
+      },
+      "fonts": {
+        "heading": "'Comfortaa', sans-serif",
+        "body": "'Source Sans 3', sans-serif"
+      }
+    }
+  },
+  {
+    "firm_slug": "generations-legal-group",
+    "form_name": "Estate Planning",
+    "brand": {
+      "firmName": "Generations Legal Group",
+      "heroTitle": "Let's get your estate plan started.",
+      "heroSubtitle": "Complete this intake form and our team will be in touch.",
+      "logoUrl": "https://cdn.prod.website-files.com/65c7c7dce171bdd6b1696029/65c7c9aee743479d4ca07e89_Layer%201.png",
+      "logoAlt": "Generations Legal Group",
+      "webhookUrl": "PLACEHOLDER \u2014 set before going live",
+      "colors": {
+        "primary": "#30be82",
+        "primaryDark": "#269868",
+        "primaryContainer": "#eaf8f2",
+        "onPrimary": "#ffffff"
+      },
+      "fonts": {
+        "heading": "'Rufina', sans-serif",
+        "body": "'Source Sans 3', sans-serif"
+      }
+    }
+  },
+  {
+    "firm_slug": "risman-risman-pc",
+    "form_name": "Estate Planning",
+    "brand": {
+      "firmName": "Risman & Risman, P.C.",
+      "heroTitle": "Let's get your estate plan started.",
+      "heroSubtitle": "Complete this intake form and our team will be in touch.",
+      "logoUrl": "https://www.risman-law.com/wp-content/uploads/2026/06/logo-dark.webp",
+      "logoAlt": "Risman & Risman, P.C.",
+      "webhookUrl": "PLACEHOLDER \u2014 set before going live",
+      "colors": {
+        "primary": "#0e307d",
+        "primaryDark": "#0b2664",
+        "primaryContainer": "#e6eaf2",
+        "onPrimary": "#ffffff"
+      },
+      "fonts": {
+        "heading": "'Petrona', sans-serif",
+        "body": "'Source Sans 3', sans-serif"
+      }
+    }
+  },
+  {
+    "firm_slug": "horgan-law",
+    "form_name": "Estate Planning",
+    "brand": {
+      "firmName": "Horgan Law",
+      "heroTitle": "Let's get your estate plan started.",
+      "heroSubtitle": "Complete this intake form and our team will be in touch.",
+      "logoUrl": "https://horganlawfirm.com/wp-content/uploads/2022/08/HorganLaD01aR03aP02ZL-Ford3a_transparent.png",
+      "logoAlt": "Horgan Law",
+      "webhookUrl": "PLACEHOLDER \u2014 set before going live",
+      "colors": {
+        "primary": "#0f1720",
+        "primaryDark": "#0c1219",
+        "primaryContainer": "#e7e7e8",
+        "onPrimary": "#ffffff"
+      },
+      "fonts": {
+        "heading": "'Plus Jakarta Sans', sans-serif",
+        "body": "'Source Sans 3', sans-serif"
+      }
+    }
+  },
+  {
+    "firm_slug": "rischard-elder-law",
+    "form_name": "Estate Planning",
+    "brand": {
+      "firmName": "Rischard Elder Law",
+      "heroTitle": "Let's get your estate plan started.",
+      "heroSubtitle": "Complete this intake form and our team will be in touch.",
+      "logoUrl": "https://cdn.prod.website-files.com/616ef2bca070274e4740eba3/616efe0c67c9ed34228cc5db_rischard-logo.png",
+      "logoAlt": "Rischard Elder Law",
+      "webhookUrl": "PLACEHOLDER \u2014 set before going live",
+      "colors": {
+        "primary": "#dd593b",
+        "primaryDark": "#b0472f",
+        "primaryContainer": "#fbeeeb",
+        "onPrimary": "#ffffff"
+      },
+      "fonts": {
+        "heading": "'Lato', sans-serif",
+        "body": "'Source Sans 3', sans-serif"
+      }
+    }
+  },
+  {
+    "firm_slug": "azarvand-tax-law",
+    "form_name": "Estate Planning",
+    "brand": {
+      "firmName": "Azarvand Tax Law",
+      "heroTitle": "Let's get your estate plan started.",
+      "heroSubtitle": "Complete this intake form and our team will be in touch.",
+      "logoUrl": "https://media.azarvandtaxlaw.com/2025/12/azarvand-tax-law-logo.webp",
+      "logoAlt": "Azarvand Tax Law",
+      "webhookUrl": "PLACEHOLDER \u2014 set before going live",
+      "colors": {
+        "primary": "#003060",
+        "primaryDark": "#00264c",
+        "primaryContainer": "#e5eaef",
+        "onPrimary": "#ffffff"
+      },
+      "fonts": {
+        "heading": "'Libre Baskerville', sans-serif",
+        "body": "'Source Sans 3', sans-serif"
+      }
+    }
+  },
+  {
+    "firm_slug": "cha-law-ethics",
+    "form_name": "Estate Planning",
+    "brand": {
+      "firmName": "Cha Law Ethics",
+      "heroTitle": "Let's get your estate plan started.",
+      "heroSubtitle": "Complete this intake form and our team will be in touch.",
+      "logoUrl": null,
+      "logoAlt": "Cha Law Ethics",
+      "webhookUrl": "PLACEHOLDER \u2014 set before going live",
+      "colors": {
+        "primary": "#7a2e3b",
+        "primaryDark": "#5e2230",
+        "primaryContainer": "#f0ead8",
+        "onPrimary": "#ffffff"
+      },
+      "fonts": {
+        "heading": "'Comfortaa', sans-serif",
+        "body": "'Source Sans 3', sans-serif"
+      }
+    }
+  },
+  {
+    "firm_slug": "hartenstein-poor-foster-llc",
+    "form_name": "Estate Planning",
+    "brand": {
+      "firmName": "Hartenstein Poor & Foster LLC",
+      "heroTitle": "Let's get your estate plan started.",
+      "heroSubtitle": "Complete this intake form and our team will be in touch.",
+      "logoUrl": "https://images.squarespace-cdn.com/content/v1/6917a97d1c874d0b1227932c/5784ee69-194b-43a2-a2d5-c3ada0fef1e0/HPF+Logo+%28Full%2C+Side%2C+White+and+Yellow%2C+No+Background%29.png?format=1500w",
+      "logoAlt": "Hartenstein Poor & Foster LLC",
+      "webhookUrl": "PLACEHOLDER \u2014 set before going live",
+      "colors": {
+        "primary": "#e7b763",
+        "primaryDark": "#b8924f",
+        "primaryContainer": "#fcf7ef",
+        "onPrimary": "#ffffff"
+      },
+      "fonts": {
+        "heading": "'Comfortaa', sans-serif",
+        "body": "'Source Sans 3', sans-serif"
+      }
+    }
+  },
+  {
+    "firm_slug": "the-biondi-law-firm",
+    "form_name": "Estate Planning",
+    "brand": {
+      "firmName": "The Biondi Law Firm",
+      "heroTitle": "Let's get your estate plan started.",
+      "heroSubtitle": "Complete this intake form and our team will be in touch.",
+      "logoUrl": null,
+      "logoAlt": "The Biondi Law Firm",
+      "webhookUrl": "PLACEHOLDER \u2014 set before going live",
+      "colors": {
+        "primary": "#182d44",
+        "primaryDark": "#132436",
+        "primaryContainer": "#e7eaec",
+        "onPrimary": "#ffffff"
+      },
+      "fonts": {
+        "heading": "'Italiana', sans-serif",
+        "body": "'Source Sans 3', sans-serif"
+      }
+    }
+  },
+  {
+    "firm_slug": "maimonis-law-llc",
+    "form_name": "Estate Planning",
+    "brand": {
+      "firmName": "Maimonis Law LLC",
+      "heroTitle": "Let's get your estate plan started.",
+      "heroSubtitle": "Complete this intake form and our team will be in touch.",
+      "logoUrl": "https://maimonislawchicago.com/wp-content/themes/maimonis-law-llc/assets/maimonis-law-logo.jpeg",
+      "logoAlt": "Maimonis Law LLC",
+      "webhookUrl": "PLACEHOLDER \u2014 set before going live",
+      "colors": {
+        "primary": "#83d7f4",
+        "primaryDark": "#68acc3",
+        "primaryContainer": "#f2fbfd",
+        "onPrimary": "#ffffff"
+      },
+      "fonts": {
+        "heading": "'Comfortaa', sans-serif",
+        "body": "'Source Sans 3', sans-serif"
+      }
+    }
+  },
+  {
+    "firm_slug": "tustin-law-group-apc",
+    "form_name": "Estate Planning",
+    "brand": {
+      "firmName": "Tustin Law Group, APC",
+      "heroTitle": "Let's get your estate plan started.",
+      "heroSubtitle": "Complete this intake form and our team will be in touch.",
+      "logoUrl": "https://tustinlawgroup.com/wp-content/uploads/2025/05/Tustin-Law-Group-Logo-2.png.webp",
+      "logoAlt": "Tustin Law Group, APC",
+      "webhookUrl": "PLACEHOLDER \u2014 set before going live",
+      "colors": {
+        "primary": "#1a4a8a",
+        "primaryDark": "#143b6e",
+        "primaryContainer": "#e8ecf3",
+        "onPrimary": "#ffffff"
+      },
+      "fonts": {
+        "heading": "'Source Serif 4', sans-serif",
+        "body": "'Source Sans 3', sans-serif"
+      }
+    }
+  },
+  {
+    "firm_slug": "alonso-montero-pllc",
+    "form_name": "Estate Planning",
+    "brand": {
+      "firmName": "Alonso-Montero, PLLC",
+      "heroTitle": "Let's get your estate plan started.",
+      "heroSubtitle": "Complete this intake form and our team will be in touch.",
+      "logoUrl": "https://adlegalgroup.com/wp-content/uploads/2022/05/adlegalgroup-white-logo.png",
+      "logoAlt": "Alonso-Montero, PLLC",
+      "webhookUrl": "PLACEHOLDER \u2014 set before going live",
+      "colors": {
+        "primary": "#c41230",
+        "primaryDark": "#9c0e26",
+        "primaryContainer": "#f9e7ea",
+        "onPrimary": "#ffffff"
+      },
+      "fonts": {
+        "heading": "'Comfortaa', sans-serif",
+        "body": "'Source Sans 3', sans-serif"
+      }
+    }
+  },
+  {
+    "firm_slug": "cline-donaldson-pllc",
+    "form_name": "Estate Planning",
+    "brand": {
+      "firmName": "Cline Donaldson PLLC",
+      "heroTitle": "Let's get your estate plan started.",
+      "heroSubtitle": "Complete this intake form and our team will be in touch.",
+      "logoUrl": "https://i0.wp.com/clinedonaldson.com/wp-content/uploads/2024/11/cline-donaldson-logo.png?fit=292%2C32&ssl=1",
+      "logoAlt": "Cline Donaldson PLLC",
+      "webhookUrl": "PLACEHOLDER \u2014 set before going live",
+      "colors": {
+        "primary": "#2a5298",
+        "primaryDark": "#214179",
+        "primaryContainer": "#e9edf4",
+        "onPrimary": "#ffffff"
+      },
+      "fonts": {
+        "heading": "'Comfortaa', sans-serif",
+        "body": "'Source Sans 3', sans-serif"
+      }
+    }
+  },
+  {
+    "firm_slug": "fenchel-family-law-pc",
+    "form_name": "Estate Planning",
+    "brand": {
+      "firmName": "Fenchel Family Law PC",
+      "heroTitle": "Let's get your estate plan started.",
+      "heroSubtitle": "Complete this intake form and our team will be in touch.",
+      "logoUrl": null,
+      "logoAlt": "Fenchel Family Law PC",
+      "webhookUrl": "PLACEHOLDER \u2014 set before going live",
+      "colors": {
+        "primary": "#7b5ea7",
+        "primaryDark": "#624b85",
+        "primaryContainer": "#f1eef6",
+        "onPrimary": "#ffffff"
+      },
+      "fonts": {
+        "heading": "'Comfortaa', sans-serif",
+        "body": "'Source Sans 3', sans-serif"
+      }
+    }
+  },
+  {
+    "firm_slug": "p-a-davis-law-office-llc",
+    "form_name": "Estate Planning",
+    "brand": {
+      "firmName": "P. A. Davis Law Office, LLC",
+      "heroTitle": "Let's get your estate plan started.",
+      "heroSubtitle": "Complete this intake form and our team will be in touch.",
+      "logoUrl": "https://irp.cdn-website.com/427198b8/dms3rep/multi/opt/pawnee-004eeee3-1920w.png",
+      "logoAlt": "P. A. Davis Law Office, LLC",
+      "webhookUrl": "PLACEHOLDER \u2014 set before going live",
+      "colors": {
+        "primary": "#343f56",
+        "primaryDark": "#293244",
+        "primaryContainer": "#eaebee",
+        "onPrimary": "#ffffff"
+      },
+      "fonts": {
+        "heading": "'Playfair Display', sans-serif",
+        "body": "'Source Sans 3', sans-serif"
+      }
+    }
+  },
+  {
+    "firm_slug": "mumford-law-and-mediation-firm",
+    "form_name": "Estate Planning",
+    "brand": {
+      "firmName": "Mumford Law and Mediation Firm",
+      "heroTitle": "Let's get your estate plan started.",
+      "heroSubtitle": "Complete this intake form and our team will be in touch.",
+      "logoUrl": null,
+      "logoAlt": "Mumford Law and Mediation Firm",
+      "webhookUrl": "PLACEHOLDER \u2014 set before going live",
+      "colors": {
+        "primary": "#2e6b4f",
+        "primaryDark": "#24553f",
+        "primaryContainer": "#eaf0ed",
+        "onPrimary": "#ffffff"
+      },
+      "fonts": {
+        "heading": "'Forum', sans-serif",
+        "body": "'Source Sans 3', sans-serif"
+      }
+    }
+  },
+  {
+    "firm_slug": "novoflex-counsel-inc",
+    "form_name": "Estate Planning",
+    "brand": {
+      "firmName": "NovoFlex Counsel Inc.",
+      "heroTitle": "Let's get your estate plan started.",
+      "heroSubtitle": "Complete this intake form and our team will be in touch.",
+      "logoUrl": "https://static.wixstatic.com/media/3abed1_12080dcf78f2463491066ac24d8e4391~mv2.png/v1/fill/w_328,h_100,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/3abed1_12080dcf78f2463491066ac24d8e4391~mv2.png",
+      "logoAlt": "NovoFlex Counsel Inc.",
+      "webhookUrl": "PLACEHOLDER \u2014 set before going live",
+      "colors": {
+        "primary": "#1a7a8a",
+        "primaryDark": "#14616e",
+        "primaryContainer": "#e8f1f3",
+        "onPrimary": "#ffffff"
+      },
+      "fonts": {
+        "heading": "'Space Grotesk', sans-serif",
+        "body": "'Source Sans 3', sans-serif"
+      }
+    }
+  },
+  {
+    "firm_slug": "wam-entertainment-law",
+    "form_name": "Estate Planning",
+    "brand": {
+      "firmName": "WAM Entertainment Law",
+      "heroTitle": "Let's get your estate plan started.",
+      "heroSubtitle": "Complete this intake form and our team will be in touch.",
+      "logoUrl": null,
+      "logoAlt": "WAM Entertainment Law",
+      "webhookUrl": "PLACEHOLDER \u2014 set before going live",
+      "colors": {
+        "primary": "#7a2e3b",
+        "primaryDark": "#5e2230",
+        "primaryContainer": "#f0ead8",
+        "onPrimary": "#ffffff"
+      },
+      "fonts": {
+        "heading": "'Comfortaa', sans-serif",
+        "body": "'Source Sans 3', sans-serif"
+      }
+    }
+  },
+  {
+    "firm_slug": "pittsburgh-estate-law-pc",
+    "form_name": "Estate Planning",
+    "brand": {
+      "firmName": "Pittsburgh Estate Law, PC",
+      "heroTitle": "Let's get your estate plan started.",
+      "heroSubtitle": "Complete this intake form and our team will be in touch.",
+      "logoUrl": "https://pghestatelaw.com/wp-content/uploads/2020/04/cropped-PGH_EstateLaw_Logo.png",
+      "logoAlt": "Pittsburgh Estate Law, PC",
+      "webhookUrl": "PLACEHOLDER \u2014 set before going live",
+      "colors": {
+        "primary": "#283890",
+        "primaryDark": "#202c73",
+        "primaryContainer": "#e9ebf3",
+        "onPrimary": "#ffffff"
+      },
+      "fonts": {
+        "heading": "'Comfortaa', sans-serif",
+        "body": "'Source Sans 3', sans-serif"
+      }
+    }
+  },
+  {
+    "firm_slug": "bottomline-lawyers-pc",
+    "form_name": "Estate Planning",
+    "brand": {
+      "firmName": "BottomLine Lawyers PC",
+      "heroTitle": "Let's get your estate plan started.",
+      "heroSubtitle": "Complete this intake form and our team will be in touch.",
+      "logoUrl": "https://bottomlinelawyers.com/wp-content/uploads/2022/07/nglcc-logo.webp",
+      "logoAlt": "BottomLine Lawyers PC",
+      "webhookUrl": "PLACEHOLDER \u2014 set before going live",
+      "colors": {
+        "primary": "#d28c0e",
+        "primaryDark": "#a8700b",
+        "primaryContainer": "#faf3e6",
+        "onPrimary": "#ffffff"
+      },
+      "fonts": {
+        "heading": "'Rajdhani', sans-serif",
+        "body": "'Source Sans 3', sans-serif"
+      }
+    }
+  },
+  {
+    "firm_slug": "reed-glovick-hamming-plc",
+    "form_name": "Estate Planning",
+    "brand": {
+      "firmName": "Reed, Glovick & Hamming, PLC",
+      "heroTitle": "Let's get your estate plan started.",
+      "heroSubtitle": "Complete this intake form and our team will be in touch.",
+      "logoUrl": null,
+      "logoAlt": "Reed, Glovick & Hamming, PLC",
+      "webhookUrl": "PLACEHOLDER \u2014 set before going live",
+      "colors": {
+        "primary": "#1a3a6b",
+        "primaryDark": "#142e55",
+        "primaryContainer": "#e8ebf0",
+        "onPrimary": "#ffffff"
+      },
+      "fonts": {
+        "heading": "'Comfortaa', sans-serif",
+        "body": "'Source Sans 3', sans-serif"
+      }
+    }
+  },
+  {
+    "firm_slug": "allen-law-group-pc",
+    "form_name": "Estate Planning",
+    "brand": {
+      "firmName": "Allen Law Group, P.C.",
+      "heroTitle": "Let's get your estate plan started.",
+      "heroSubtitle": "Complete this intake form and our team will be in touch.",
+      "logoUrl": "http://wqc.wah.mybluehost.me/wp-content/uploads/2024/04/allen-law-logo-300x116.png",
+      "logoAlt": "Allen Law Group, P.C.",
+      "webhookUrl": "PLACEHOLDER \u2014 set before going live",
+      "colors": {
+        "primary": "#7999ab",
+        "primaryDark": "#607a88",
+        "primaryContainer": "#f1f4f6",
+        "onPrimary": "#ffffff"
+      },
+      "fonts": {
+        "heading": "'Crimson Text', sans-serif",
+        "body": "'Source Sans 3', sans-serif"
+      }
+    }
+  },
+  {
+    "firm_slug": "berlin-law-firm",
+    "form_name": "Estate Planning",
+    "brand": {
+      "firmName": "Berlin Law Firm",
+      "heroTitle": "Let's get your estate plan started.",
+      "heroSubtitle": "Complete this intake form and our team will be in touch.",
+      "logoUrl": "https://www.defendingtulsa.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flogo.13yyoxphcg__c.png&w=640&q=75",
+      "logoAlt": "Berlin Law Firm",
+      "webhookUrl": "PLACEHOLDER \u2014 set before going live",
+      "colors": {
+        "primary": "#1e2434",
+        "primaryDark": "#181c29",
+        "primaryContainer": "#e8e9ea",
+        "onPrimary": "#ffffff"
+      },
+      "fonts": {
+        "heading": "'Poppins', sans-serif",
+        "body": "'Source Sans 3', sans-serif"
+      }
+    }
+  },
+  {
+    "firm_slug": "charles-river-law-partners-llc",
+    "form_name": "Estate Planning",
+    "brand": {
+      "firmName": "Charles River Law Partners LLC",
+      "heroTitle": "Let's get your estate plan started.",
+      "heroSubtitle": "Complete this intake form and our team will be in touch.",
+      "logoUrl": "https://images.squarespace-cdn.com/content/v1/5925f293ebbd1a3d5abf5cd5/1495739817196-HHPPFLABVSBN24J255N8/Charles+River+LAW+Partners+FINAL-RGB-Large.png",
+      "logoAlt": "Charles River Law Partners LLC",
+      "webhookUrl": "PLACEHOLDER \u2014 set before going live",
+      "colors": {
+        "primary": "#cb2f1a",
+        "primaryDark": "#a22514",
+        "primaryContainer": "#f9eae8",
+        "onPrimary": "#ffffff"
+      },
+      "fonts": {
+        "heading": "'Comfortaa', sans-serif",
+        "body": "'Source Sans 3', sans-serif"
+      }
+    }
+  },
+  {
+    "firm_slug": "the-health-law-offices-of-anthony-c-vitale-pa",
+    "form_name": "Estate Planning",
+    "brand": {
+      "firmName": "The Health Law Offices of Anthony C. Vitale, P.A.",
+      "heroTitle": "Let's get your estate plan started.",
+      "heroSubtitle": "Complete this intake form and our team will be in touch.",
+      "logoUrl": null,
+      "logoAlt": "The Health Law Offices of Anthony C. Vitale, P.A.",
+      "webhookUrl": "PLACEHOLDER \u2014 set before going live",
+      "colors": {
+        "primary": "#1a6b4f",
+        "primaryDark": "#14553f",
+        "primaryContainer": "#e8f0ed",
+        "onPrimary": "#ffffff"
+      },
+      "fonts": {
+        "heading": "'Comfortaa', sans-serif",
+        "body": "'Source Sans 3', sans-serif"
+      }
+    }
+  },
+  {
+    "firm_slug": "at-legal-pc",
+    "form_name": "Estate Planning",
+    "brand": {
+      "firmName": "AT Legal PC",
+      "heroTitle": "Let's get your estate plan started.",
+      "heroSubtitle": "Complete this intake form and our team will be in touch.",
+      "logoUrl": "https://www.atlegalmt.com/wp-content/uploads/2025/05/logo.svg",
+      "logoAlt": "AT Legal PC",
+      "webhookUrl": "PLACEHOLDER \u2014 set before going live",
+      "colors": {
+        "primary": "#1e2c64",
+        "primaryDark": "#182350",
+        "primaryContainer": "#e8e9ef",
+        "onPrimary": "#ffffff"
+      },
+      "fonts": {
+        "heading": "'Comfortaa', sans-serif",
+        "body": "'Source Sans 3', sans-serif"
+      }
+    }
+  },
+  {
+    "firm_slug": "capital-fund-law-group",
+    "form_name": "Estate Planning",
+    "brand": {
+      "firmName": "Capital Fund Law Group",
+      "heroTitle": "Let's get your estate plan started.",
+      "heroSubtitle": "Complete this intake form and our team will be in touch.",
+      "logoUrl": null,
+      "logoAlt": "Capital Fund Law Group",
+      "webhookUrl": "PLACEHOLDER \u2014 set before going live",
+      "colors": {
+        "primary": "#7a2e3b",
+        "primaryDark": "#5e2230",
+        "primaryContainer": "#f0ead8",
+        "onPrimary": "#ffffff"
+      },
+      "fonts": {
+        "heading": "'Comfortaa', sans-serif",
+        "body": "'Source Sans 3', sans-serif"
+      }
+    }
+  },
+  {
+    "firm_slug": "dechant-law-firm",
+    "form_name": "Estate Planning",
+    "brand": {
+      "firmName": "DeChant Law Firm",
+      "heroTitle": "Let's get your estate plan started.",
+      "heroSubtitle": "Complete this intake form and our team will be in touch.",
+      "logoUrl": "https://www.dechantlaw.com/wp-content/themes/dechant_2024/img/logos/main.webp",
+      "logoAlt": "DeChant Law Firm",
+      "webhookUrl": "PLACEHOLDER \u2014 set before going live",
+      "colors": {
+        "primary": "#1a3a6b",
+        "primaryDark": "#142e55",
+        "primaryContainer": "#e8ebf0",
+        "onPrimary": "#ffffff"
+      },
+      "fonts": {
+        "heading": "'Playfair Display', sans-serif",
+        "body": "'Source Sans 3', sans-serif"
+      }
+    }
+  },
+  {
+    "firm_slug": "north-texas-legal-defense-pc",
+    "form_name": "Estate Planning",
+    "brand": {
+      "firmName": "North Texas Legal Defense P.C.",
+      "heroTitle": "Let's get your estate plan started.",
+      "heroSubtitle": "Complete this intake form and our team will be in touch.",
+      "logoUrl": "https://clio-grow-production.s3.amazonaws.com/accounts/logos/80798/original/NTLD_Final_Logo_Color-_Horizontal.png",
+      "logoAlt": "North Texas Legal Defense P.C.",
+      "webhookUrl": "PLACEHOLDER \u2014 set before going live",
+      "colors": {
+        "primary": "#0a8572",
+        "primaryDark": "#086a5b",
+        "primaryContainer": "#e6f2f0",
+        "onPrimary": "#ffffff"
+      },
+      "fonts": {
+        "heading": "'Lato', sans-serif",
+        "body": "'Source Sans 3', sans-serif"
+      }
+    }
+  },
+  {
+    "firm_slug": "ldmh-partners",
+    "form_name": "Estate Planning",
+    "brand": {
+      "firmName": "LDMH Partners",
+      "heroTitle": "Let's get your estate plan started.",
+      "heroSubtitle": "Complete this intake form and our team will be in touch.",
+      "logoUrl": "https://cdn.prod.website-files.com/6a139bd138a2578076a3ef28/6a139c775f224ee69d824174_relume-867145.png",
+      "logoAlt": "LDMH Partners",
+      "webhookUrl": "PLACEHOLDER \u2014 set before going live",
+      "colors": {
+        "primary": "#51a6b4",
+        "primaryDark": "#408490",
+        "primaryContainer": "#edf6f7",
+        "onPrimary": "#ffffff"
+      },
+      "fonts": {
+        "heading": "'Martel', sans-serif",
+        "body": "'Source Sans 3', sans-serif"
+      }
+    }
+  },
+  {
+    "firm_slug": "law-office-of-kyle-whitaker",
+    "form_name": "Estate Planning",
+    "brand": {
+      "firmName": "Law Office of Kyle Whitaker",
+      "heroTitle": "Let's get your estate plan started.",
+      "heroSubtitle": "Complete this intake form and our team will be in touch.",
+      "logoUrl": "https://www.kylewhitaker.com/assets/images/logo.png",
+      "logoAlt": "Law Office of Kyle Whitaker",
+      "webhookUrl": "PLACEHOLDER \u2014 set before going live",
+      "colors": {
+        "primary": "#42113c",
+        "primaryDark": "#340d30",
+        "primaryContainer": "#ece7eb",
+        "onPrimary": "#ffffff"
+      },
+      "fonts": {
+        "heading": "'Libre Baskerville', sans-serif",
+        "body": "'Source Sans 3', sans-serif"
+      }
+    }
+  },
+  {
+    "firm_slug": "bache-lynch-goldsmith-mendoza-pllc",
+    "form_name": "Estate Planning",
+    "brand": {
+      "firmName": "Bache Lynch Goldsmith & Mendoza PLLC",
+      "heroTitle": "Let's get your estate plan started.",
+      "heroSubtitle": "Complete this intake form and our team will be in touch.",
+      "logoUrl": null,
+      "logoAlt": "Bache Lynch Goldsmith & Mendoza PLLC",
+      "webhookUrl": "PLACEHOLDER \u2014 set before going live",
+      "colors": {
+        "primary": "#7a2e3b",
+        "primaryDark": "#5e2230",
+        "primaryContainer": "#f0ead8",
+        "onPrimary": "#ffffff"
+      },
+      "fonts": {
+        "heading": "'Comfortaa', sans-serif",
+        "body": "'Source Sans 3', sans-serif"
+      }
+    }
+  },
+  {
+    "firm_slug": "simpson-dattilo-llc",
+    "form_name": "Estate Planning",
+    "brand": {
+      "firmName": "SIMPSON DATTILO, LLC",
+      "heroTitle": "Let's get your estate plan started.",
+      "heroSubtitle": "Complete this intake form and our team will be in touch.",
+      "logoUrl": null,
+      "logoAlt": "SIMPSON DATTILO, LLC",
+      "webhookUrl": "PLACEHOLDER \u2014 set before going live",
+      "colors": {
+        "primary": "#abb8c3",
+        "primaryDark": "#88939c",
+        "primaryContainer": "#f6f7f9",
+        "onPrimary": "#ffffff"
+      },
+      "fonts": {
+        "heading": "'Comfortaa', sans-serif",
+        "body": "'Source Sans 3', sans-serif"
+      }
+    }
+  },
+  {
+    "firm_slug": "nicoletti-brown-llp",
+    "form_name": "Estate Planning",
+    "brand": {
+      "firmName": "Nicoletti & Brown, LLP.",
+      "heroTitle": "Let's get your estate plan started.",
+      "heroSubtitle": "Complete this intake form and our team will be in touch.",
+      "logoUrl": "https://jamestaylorbrown.com/wp-content/uploads/2024/03/Logo-of-Law-Offices-of-James-Taylor-Brown-1024x293.png",
+      "logoAlt": "Nicoletti & Brown, LLP.",
+      "webhookUrl": "PLACEHOLDER \u2014 set before going live",
+      "colors": {
+        "primary": "#1f4a88",
+        "primaryDark": "#183b6c",
+        "primaryContainer": "#e8ecf3",
+        "onPrimary": "#ffffff"
+      },
+      "fonts": {
+        "heading": "'DM Serif Display', sans-serif",
+        "body": "'Source Sans 3', sans-serif"
+      }
+    }
+  },
+  {
+    "firm_slug": "erica-baez-law",
+    "form_name": "Estate Planning",
+    "brand": {
+      "firmName": "Erica Baez Law",
+      "heroTitle": "Let's get your estate plan started.",
+      "heroSubtitle": "Complete this intake form and our team will be in touch.",
+      "logoUrl": "https://baezlawrva.com/wp-content/uploads/2025/01/B-Logo-with-script.png",
+      "logoAlt": "Erica Baez Law",
+      "webhookUrl": "PLACEHOLDER \u2014 set before going live",
+      "colors": {
+        "primary": "#ec7c71",
+        "primaryDark": "#bc635a",
+        "primaryContainer": "#fdf1f0",
+        "onPrimary": "#ffffff"
+      },
+      "fonts": {
+        "heading": "'Comfortaa', sans-serif",
+        "body": "'Source Sans 3', sans-serif"
+      }
+    }
+  },
+  {
+    "firm_slug": "rane-aung-pllc",
+    "form_name": "Estate Planning",
+    "brand": {
+      "firmName": "Rane & Aung PLLC",
+      "heroTitle": "Let's get your estate plan started.",
+      "heroSubtitle": "Complete this intake form and our team will be in touch.",
+      "logoUrl": "https://clio-grow-production.s3.amazonaws.com/accounts/logos/86036/original/IMG_1473.png",
+      "logoAlt": "Rane & Aung PLLC",
+      "webhookUrl": "PLACEHOLDER \u2014 set before going live",
+      "colors": {
+        "primary": "#0a8572",
+        "primaryDark": "#086a5b",
+        "primaryContainer": "#e6f2f0",
+        "onPrimary": "#ffffff"
+      },
+      "fonts": {
+        "heading": "'Lato', sans-serif",
+        "body": "'Source Sans 3', sans-serif"
+      }
+    }
+  },
+  {
+    "firm_slug": "law-offices-of-vlad-portnoy-pc",
+    "form_name": "Estate Planning",
+    "brand": {
+      "firmName": "Law Offices of Vlad Portnoy, P.C.",
+      "heroTitle": "Let's get your estate plan started.",
+      "heroSubtitle": "Complete this intake form and our team will be in touch.",
+      "logoUrl": "https://nywillsandestates.com/wp-content/themes/nywills/assets/images/logo.webp",
+      "logoAlt": "Law Offices of Vlad Portnoy, P.C.",
+      "webhookUrl": "PLACEHOLDER \u2014 set before going live",
+      "colors": {
+        "primary": "#005030",
+        "primaryDark": "#004026",
+        "primaryContainer": "#e5edea",
+        "onPrimary": "#ffffff"
+      },
+      "fonts": {
+        "heading": "'Playfair Display', sans-serif",
+        "body": "'Source Sans 3', sans-serif"
+      }
+    }
+  },
+  {
+    "firm_slug": "cnl-law-firm-pllc",
+    "form_name": "Estate Planning",
+    "brand": {
+      "firmName": "CNL Law Firm, PLLC",
+      "heroTitle": "Let's get your estate plan started.",
+      "heroSubtitle": "Complete this intake form and our team will be in touch.",
+      "logoUrl": null,
+      "logoAlt": "CNL Law Firm, PLLC",
+      "webhookUrl": "PLACEHOLDER \u2014 set before going live",
+      "colors": {
+        "primary": "#1a3a6b",
+        "primaryDark": "#142e55",
+        "primaryContainer": "#e8ebf0",
+        "onPrimary": "#ffffff"
+      },
+      "fonts": {
+        "heading": "'Comfortaa', sans-serif",
+        "body": "'Source Sans 3', sans-serif"
+      }
+    }
+  },
+  {
+    "firm_slug": "jack-fernandes-law-apc",
+    "form_name": "Estate Planning",
+    "brand": {
+      "firmName": "Jack Fernandes Law, APC",
+      "heroTitle": "Let's get your estate plan started.",
+      "heroSubtitle": "Complete this intake form and our team will be in touch.",
+      "logoUrl": "https://jackfernandeslaw.com/wp-content/uploads/2026/08/jfl-logo-light.png",
+      "logoAlt": "Jack Fernandes Law, APC",
+      "webhookUrl": "PLACEHOLDER \u2014 set before going live",
+      "colors": {
+        "primary": "#0a4058",
+        "primaryDark": "#083346",
+        "primaryContainer": "#e6ebee",
+        "onPrimary": "#ffffff"
+      },
+      "fonts": {
+        "heading": "'Newsreader', sans-serif",
+        "body": "'Source Sans 3', sans-serif"
+      }
+    }
+  }
+]

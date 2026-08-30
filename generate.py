@@ -115,7 +115,7 @@ with open(os.path.join(OUT_DIR, 'form_configs.json'), 'w') as f:
 print(f'Wrote form_configs.json ({len(configs)} entries)')
 
 # ── HTML template ─────────────────────────────────────────────────
-def make_html(firm_name, primary, primary_dark, primary_container, heading_gf=None):
+def make_html(firm_name, primary, primary_dark, primary_container, heading_gf=None, logo_url=None):
     # Escape firm_name for JS string
     firm_js = firm_name.replace("'", "\\'")
     # Build Google Fonts URL with optional extra heading font
@@ -123,6 +123,10 @@ def make_html(firm_name, primary, primary_dark, primary_container, heading_gf=No
     if heading_gf and heading_gf not in ('Inter', 'Comfortaa', 'Source+Sans+3'):
         gf_families += f'&family={heading_gf}:wght@400;600;700'
     heading_css_val = f"'{heading_gf.replace('+', ' ')}', sans-serif" if heading_gf else "'Comfortaa', sans-serif"
+    if logo_url:
+        topnav_brand = f'<img src="{logo_url}" alt="{firm_name}" style="height:32px;max-width:160px;object-fit:contain;margin-right:20px;" onerror="this.style.display=\'none\';document.getElementById(\'topnav-name\').style.display=\'block\'"/><span class="preview-firm-name" id="topnav-name" style="display:none">{firm_name}</span>'
+    else:
+        topnav_brand = f'<span class="preview-firm-name" id="topnav-name">{firm_name}</span>'
 
     return f'''<!DOCTYPE html>
 <html lang="en">
@@ -219,7 +223,7 @@ body{{background:#ffffff;font-family:'Source Sans 3',sans-serif;display:flex;jus
 <div id="donna-app">
 <div class="preview-page" id="preview-page">
   <div class="preview-topnav">
-    <span class="preview-firm-name" id="preview-firm-name">{firm_name}</span>
+    {topnav_brand}
     <div class="preview-part-tabs" id="preview-part-tabs"></div>
     <div class="preview-draft-saved"><span class="preview-draft-dot"></span>Draft saved</div>
   </div>
@@ -563,8 +567,9 @@ for i, firm in enumerate(firms):
     name = firm['firm_name']
     p, pd, pc, fallback = get_colors(firm)
     _, heading_gf = resolve_font(firm.get('heading_font'))
+    logo = clean_logo_url(firm.get('logo_url'))
 
-    html = make_html(name, p, pd, pc, heading_gf)
+    html = make_html(name, p, pd, pc, heading_gf, logo)
     out_path = os.path.join(PREVIEWS, f'{slug}.html')
     with open(out_path, 'w', encoding='utf-8') as f:
         f.write(html)

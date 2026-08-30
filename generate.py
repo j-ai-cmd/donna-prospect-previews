@@ -146,7 +146,7 @@ body{{background:#f0ead8;font-family:'Source Sans 3',sans-serif;display:flex;jus
   --cream-hover:#e2d9c4;
   --text-dark:#1e1209;--text-mid:#5c4d3a;--text-muted:#9a8a75;
   position:relative;font-family:'Inter',sans-serif;border-radius:16px;overflow:hidden;
-  box-shadow:0 4px 60px rgba(30,18,9,0.15);width:940px;max-width:100%;height:720px;
+  box-shadow:0 4px 60px rgba(30,18,9,0.15);width:1080px;max-width:100%;height:800px;
 }}
 #donna-app button{{cursor:pointer;font-family:inherit;border:none;background:none;}}
 #donna-app input,#donna-app textarea,#donna-app select{{font-family:inherit;}}
@@ -226,10 +226,6 @@ body{{background:#f0ead8;font-family:'Source Sans 3',sans-serif;display:flex;jus
   <div class="preview-body">
     <div class="preview-sidebar" id="preview-sidebar"></div>
     <div class="preview-main">
-      <div class="preview-progress-strip">
-        <div class="preview-progress-label" id="preview-page-indicator">Page 1 of 9 &middot; 11% complete</div>
-        <div class="preview-progress-bar"><div class="preview-progress-fill" id="preview-progress-fill" style="width:11%"></div></div>
-      </div>
       <div class="preview-content-wrap">
         <div class="preview-form">
           <div id="preview-form-container">
@@ -395,10 +391,7 @@ function renderPreviewSidebar() {{
       seenInPart++;
     }}
   }}
-  var pct=Math.round((partPageIdx+1)/partPages.length*100);
-  var html='<div class="preview-sidebar-section">Progress</div>'
-    +'<div class="preview-sidebar-prog-bar"><div class="preview-sidebar-prog-fill" style="width:'+pct+'%"></div></div>'
-    +'<div class="preview-sidebar-pct">'+pct+'% — Part '+String.fromCharCode(65+currentPart)+'</div>';
+  var html='';
   var lastPart=-1;
   form.pages.forEach(function(p,i){{
     var thisPart=form.pagePartMap[i];
@@ -496,9 +489,7 @@ function renderPreviewPage(){{
   var total=form.pages.length;
   var page=form.pages[currentPreviewPage];
   var pct=Math.round((currentPreviewPage+1)/total*100);
-  document.getElementById('preview-progress-fill').style.width=pct+'%';
   document.getElementById('preview-page-title').textContent=page.title;
-  document.getElementById('preview-page-indicator').textContent='Page '+(currentPreviewPage+1)+' of '+total+' \xb7 '+pct+'% complete';
   var subEl=document.getElementById('preview-page-sub');
   if(subEl) subEl.textContent=page.sub||'';
   document.getElementById('preview-error').style.display='none';

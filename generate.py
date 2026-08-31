@@ -134,6 +134,7 @@ def make_html(firm_name, primary, primary_dark, primary_container, heading_gf=No
 <meta charset="UTF-8"/>
 <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
 <title>{firm_name} — Estate Planning Intake</title>
+<script defer src="/_vercel/insights/script.js"></script>
 <link rel="preconnect" href="https://fonts.googleapis.com"/>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?{gf_families}&display=swap"/>
 <style>

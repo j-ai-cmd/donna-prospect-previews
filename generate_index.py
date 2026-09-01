@@ -10,12 +10,13 @@ Usage:
 """
 import csv, io, re, os, json
 
-PREVIEWS_DIR   = '/tmp/donna-prospect-previews/previews'
-DRAFT_DATA     = '/tmp/draft_data.json'
-APOLLO_CSV     = '/Users/jaidhingra/Downloads/apollo-contacts-export.csv'
-APOLLO_SUMMARY = '/tmp/apollo_preview_summary.json'
-OUT_PATH       = '/tmp/donna-prospect-previews/index.html'
-PREVIEW_BASE   = 'https://donna-previews.vercel.app/previews'
+PREVIEWS_DIR    = '/tmp/donna-prospect-previews/previews'
+DRAFT_DATA      = '/tmp/draft_data.json'
+APOLLO_CSV      = '/Users/jaidhingra/Downloads/apollo-contacts-export.csv'
+APOLLO_SUMMARY  = '/tmp/apollo_preview_summary.json'
+ORIGINAL_DATA   = '/tmp/original_firm_data.json'
+OUT_PATH        = '/tmp/donna-prospect-previews/index.html'
+PREVIEW_BASE    = 'https://donna-previews.vercel.app/previews'
 
 def slugify(name):
     s = name.lower()
@@ -32,6 +33,12 @@ def esc(s):
 with open(DRAFT_DATA) as f:
     drafts = json.load(f)
 original_slugs = set(d['slug'] for d in drafts)
+
+# Research data for original 83 firms (logo, color, website, linkedin)
+original_research = {}
+if os.path.exists(ORIGINAL_DATA):
+    with open(ORIGINAL_DATA) as f:
+        original_research = json.load(f)  # keyed by slug
 
 with open(APOLLO_CSV, 'rb') as f:
     content = f.read().replace(b'\x00', b'')
@@ -97,13 +104,12 @@ for i, d in enumerate(drafts):
     pms        = d['pms']
     preview_url = f'{PREVIEW_BASE}/{slug}.html'
 
-    # Try to get logo + website + linkedin from summary (if re-researched)
-    summary = summary_by_slug.get(slug, {})
-    logo    = summary.get('logo_url', '')
-    website = summary.get('website', '')
-    # Original firms don't have linkedin in draft_data — use summary if available
-    linkedin = summary.get('linkedin_person', '') or summary.get('linkedin_company', '')
-    firm_color = summary.get('color', '')
+    # Get logo, website, linkedin from research_original_firms.py output
+    research   = original_research.get(slug, {})
+    logo       = research.get('logo_url', '')
+    website    = research.get('website', '')
+    linkedin   = research.get('linkedin_person', '') or research.get('linkedin_company', '')
+    firm_color = research.get('color', '')
 
     source_badge = '<span style="background:#f0fff4;color:#16a34a;font-size:0.68rem;padding:1px 6px;border-radius:8px;font-weight:600;">Original</span>'
 

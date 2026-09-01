@@ -256,6 +256,33 @@ body{{background:#ffffff;font-family:'Source Sans 3',sans-serif;display:flex;jus
 #donna-app .preview-back-link:hover{{color:#1e1209;}}
 #donna-app .preview-success{{display:none;flex-direction:column;align-items:center;justify-content:center;padding:48px 32px;text-align:center;}}
 #donna-app .success-icon{{width:56px;height:56px;border-radius:50%;background:#e4f0ea;display:flex;align-items:center;justify-content:center;margin-bottom:16px;}}
+@media (max-width: 900px) {{
+  body {{ padding: 12px 8px; }}
+  #donna-app {{ width: 100%; height: 88vh; max-height: 720px; border-radius: 12px; box-shadow: 0 2px 24px rgba(30,18,9,0.12); }}
+  #donna-app .preview-page {{ border-radius: 12px; }}
+  #donna-app .preview-topnav {{ flex-wrap: wrap; height: auto; min-height: 52px; padding: 8px 12px; row-gap: 6px; }}
+  #donna-app .preview-firm-name {{ font-size: 1rem; margin-right: 10px; }}
+  #donna-app .preview-part-tabs {{ order: 3; width: 100%; overflow-x: auto; flex: none; -webkit-overflow-scrolling: touch; }}
+  #donna-app .preview-part-tab {{ flex-shrink: 0; padding: 8px 10px; font-size: 0.72rem; }}
+  #donna-app .preview-body {{ flex-direction: column; }}
+  #donna-app .preview-sidebar {{ width: 100%; flex-direction: row; overflow-x: auto; padding: 10px 12px; border-right: none; border-bottom: 1px solid var(--cream-border); -webkit-overflow-scrolling: touch; }}
+  #donna-app .preview-page-link {{ flex-shrink: 0; white-space: nowrap; margin-bottom: 0; }}
+  #donna-app .preview-content-wrap {{ padding: 16px; }}
+  #donna-app .preview-form {{ padding: 18px 16px; border-radius: 10px; }}
+  #donna-app .preview-form-title {{ font-size: 1.15rem; }}
+  #donna-app .preview-field-grid,
+  #donna-app .preview-field-grid.cols-4 {{ grid-template-columns: 1fr; }}
+  #donna-app .preview-radio-pill {{ padding: 7px 14px; font-size: 0.8rem; }}
+}}
+@media (max-width: 480px) {{
+  #donna-app .preview-topnav img {{ height: 24px; max-width: 90px; margin-right: 10px; }}
+  #donna-app .preview-firm-name {{ font-size: 0.9rem; margin-right: 8px; }}
+  #donna-app .preview-draft-saved {{ font-size: 0.68rem; }}
+  #donna-app .preview-next-btn {{ padding: 10px 20px; font-size: 0.82rem; }}
+  #donna-app .preview-back-link {{ font-size: 0.78rem; }}
+  #donna-app .preview-form-title {{ font-size: 1.05rem; }}
+  #donna-app .preview-page-sub {{ font-size: 0.78rem; }}
+}}
 </style>
 </head>
 <body>

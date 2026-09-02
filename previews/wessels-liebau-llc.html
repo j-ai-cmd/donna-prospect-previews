@@ -53,7 +53,6 @@ body{
   white-space:nowrap;overflow:hidden;text-overflow:ellipsis;max-width:60vw;
 }
 #donna-app .preview-topnav img{height:26px;max-width:120px;object-fit:contain;margin-right:14px;flex-shrink:0;}
-#donna-app .preview-draft-saved{display:flex;align-items:center;gap:5px;font-size:0.75rem;color:var(--ink-2);white-space:nowrap;margin-left:auto;flex-shrink:0;}
 /* section tabs — sit directly above the form, not in the topnav */
 #donna-app .preview-part-tabs{display:flex;gap:4px 22px;flex-wrap:wrap;border-bottom:1px solid var(--rule);margin-bottom:22px;overflow-x:auto;-webkit-overflow-scrolling:touch;scrollbar-width:none;}
 #donna-app .preview-part-tabs::-webkit-scrollbar{display:none;}
@@ -65,13 +64,17 @@ body{
 #donna-app .preview-sidebar{
   width:100%;flex-shrink:0;flex-direction:row;
   background:var(--paper-2);border-bottom:1px solid var(--rule);
-  display:flex;padding:10px 12px;gap:6px;
+  display:flex;padding:10px 12px;
   overflow-x:auto;-webkit-overflow-scrolling:touch;scrollbar-width:none;
 }
 #donna-app .preview-sidebar::-webkit-scrollbar{display:none;}
+/* One spacing mechanism, not two: margin on the link itself (row on mobile,
+   column on desktop), plus the JS-inserted group spacer between step groups.
+   No flex `gap` here — combining gap with the spacer div is what produced
+   the uneven rhythm this replaces. */
 #donna-app .preview-page-link{
   display:flex;align-items:center;gap:9px;flex-shrink:0;white-space:nowrap;
-  padding:10px 12px;border-radius:8px;font-size:0.78rem;font-weight:500;color:var(--ink-2);
+  padding:10px 12px;margin-right:3px;border-radius:8px;font-size:0.78rem;font-weight:500;color:var(--ink-2);
   cursor:pointer;transition:background 150ms var(--ease-out),color 150ms var(--ease-out);
 }
 #donna-app .preview-page-link:not(.pv-active):hover{background:var(--paper-3);color:var(--ink);}
@@ -143,6 +146,8 @@ body{
 }
 #donna-app .preview-back-link:hover{color:var(--ink);}
 #donna-app .preview-success{display:none;flex-direction:column;align-items:center;justify-content:center;padding:48px 24px;text-align:center;}
+#donna-app .preview-footer{display:flex;align-items:center;justify-content:flex-end;padding:9px 18px;background:var(--paper-2);border-top:1px solid var(--rule);flex-shrink:0;}
+#donna-app .preview-draft-saved{display:flex;align-items:center;gap:6px;font-size:0.75rem;color:var(--ink-2);white-space:nowrap;}
 #donna-app .success-icon{width:52px;height:52px;border-radius:50%;background:#e2f2e8;display:flex;align-items:center;justify-content:center;margin-bottom:16px;}
 
 /* ~640px — a bit more breathing room, still one column */
@@ -161,8 +166,8 @@ body{
   #donna-app .preview-topnav{flex-wrap:nowrap;height:54px;padding:0 22px;}
   #donna-app .preview-firm-name{font-size:1.2rem;max-width:280px;}
   #donna-app .preview-body{flex-direction:row;}
-  #donna-app .preview-sidebar{width:208px;flex-direction:column;flex-shrink:0;border-bottom:none;border-right:1px solid var(--rule);padding:24px 14px;gap:5px;overflow-y:auto;overflow-x:hidden;}
-  #donna-app .preview-page-link{white-space:normal;}
+  #donna-app .preview-sidebar{width:208px;flex-direction:column;flex-shrink:0;border-bottom:none;border-right:1px solid var(--rule);padding:24px 14px;overflow-y:auto;overflow-x:hidden;}
+  #donna-app .preview-page-link{white-space:normal;margin-right:0;margin-bottom:3px;}
   #donna-app .preview-content-wrap{padding:26px 32px;}
   #donna-app .preview-form{padding:0;}
 }
@@ -173,7 +178,6 @@ body{
 <div class="preview-page" id="preview-page">
   <div class="preview-topnav">
     <img src="https://images.squarespace-cdn.com/content/v1/638e7542ac120427f183154b/fd335703-b1fb-4334-8809-2f27efbd4fb4/Wessels_Liebau_logo.png?format=1500w" alt="Wessels & Liebau LLC" style="height:32px;max-width:160px;object-fit:contain;margin-right:20px;" onerror="this.style.display='none';document.getElementById('topnav-name').style.display='block'"/><span class="preview-firm-name" id="topnav-name" style="display:none">Wessels & Liebau LLC</span>
-    <div class="preview-draft-saved"><span class="preview-draft-dot"></span>Draft saved</div>
   </div>
   <div class="preview-body">
     <div class="preview-sidebar" id="preview-sidebar"></div>
@@ -201,6 +205,9 @@ body{
         </div>
       </div>
     </div>
+  </div>
+  <div class="preview-footer">
+    <div class="preview-draft-saved"><span class="preview-draft-dot"></span>Draft saved</div>
   </div>
 </div>
 </div>

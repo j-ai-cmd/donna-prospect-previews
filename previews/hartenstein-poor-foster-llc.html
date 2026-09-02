@@ -53,24 +53,25 @@ body{
   white-space:nowrap;overflow:hidden;text-overflow:ellipsis;max-width:60vw;
 }
 #donna-app .preview-topnav img{height:26px;max-width:120px;object-fit:contain;margin-right:14px;flex-shrink:0;}
-#donna-app .preview-part-tabs{display:flex;gap:0;order:3;width:100%;overflow-x:auto;-webkit-overflow-scrolling:touch;scrollbar-width:none;}
+#donna-app .preview-draft-saved{display:flex;align-items:center;gap:5px;font-size:0.75rem;color:var(--ink-2);white-space:nowrap;margin-left:auto;flex-shrink:0;}
+/* section tabs — sit directly above the form, not in the topnav */
+#donna-app .preview-part-tabs{display:flex;gap:4px 22px;flex-wrap:wrap;border-bottom:1px solid var(--rule);margin-bottom:22px;overflow-x:auto;-webkit-overflow-scrolling:touch;scrollbar-width:none;}
 #donna-app .preview-part-tabs::-webkit-scrollbar{display:none;}
-#donna-app .preview-part-tab{flex-shrink:0;padding:9px 12px;font-size:0.75rem;font-weight:500;color:var(--ink-2);border:none;background:none;height:100%;border-bottom:2.5px solid transparent;white-space:nowrap;font-family:'Inter',sans-serif;transition:color 150ms var(--ease-out),border-color 150ms var(--ease-out);}
+#donna-app .preview-part-tab{flex-shrink:0;padding:0 0 11px;font-size:0.8rem;font-weight:500;color:var(--ink-2);border:none;background:none;border-bottom:2.5px solid transparent;white-space:nowrap;font-family:'Inter',sans-serif;transition:color 150ms var(--ease-out),border-color 150ms var(--ease-out);}
 #donna-app .preview-part-tab:hover{color:var(--ink);}
 #donna-app .preview-part-tab.pv-tab-active{color:var(--firm-primary);border-bottom-color:var(--firm-primary);font-weight:600;}
-#donna-app .preview-draft-saved{display:flex;align-items:center;gap:5px;font-size:0.75rem;color:var(--ink-2);white-space:nowrap;margin-left:auto;flex-shrink:0;}
 #donna-app .preview-draft-dot{width:6px;height:6px;border-radius:50%;background:#1a8a52;flex-shrink:0;}
 #donna-app .preview-body{flex:1;overflow:hidden;display:flex;flex-direction:column;}
 #donna-app .preview-sidebar{
   width:100%;flex-shrink:0;flex-direction:row;
   background:var(--paper-2);border-bottom:1px solid var(--rule);
-  display:flex;padding:10px 12px;gap:2px;
+  display:flex;padding:10px 12px;gap:6px;
   overflow-x:auto;-webkit-overflow-scrolling:touch;scrollbar-width:none;
 }
 #donna-app .preview-sidebar::-webkit-scrollbar{display:none;}
 #donna-app .preview-page-link{
-  display:flex;align-items:center;gap:7px;flex-shrink:0;white-space:nowrap;
-  padding:7px 11px;border-radius:8px;font-size:0.76rem;font-weight:500;color:var(--ink-2);
+  display:flex;align-items:center;gap:9px;flex-shrink:0;white-space:nowrap;
+  padding:10px 12px;border-radius:8px;font-size:0.78rem;font-weight:500;color:var(--ink-2);
   cursor:pointer;transition:background 150ms var(--ease-out),color 150ms var(--ease-out);
 }
 #donna-app .preview-page-link:not(.pv-active):hover{background:var(--paper-3);color:var(--ink);}
@@ -159,10 +160,8 @@ body{
   #donna-app .preview-page{border:1px solid var(--rule);}
   #donna-app .preview-topnav{flex-wrap:nowrap;height:54px;padding:0 22px;}
   #donna-app .preview-firm-name{font-size:1.2rem;max-width:280px;}
-  #donna-app .preview-part-tabs{order:0;width:auto;flex:1;height:100%;}
-  #donna-app .preview-draft-saved{margin-left:14px;}
   #donna-app .preview-body{flex-direction:row;}
-  #donna-app .preview-sidebar{width:208px;flex-direction:column;flex-shrink:0;border-bottom:none;border-right:1px solid var(--rule);padding:20px 12px;overflow-y:auto;overflow-x:hidden;}
+  #donna-app .preview-sidebar{width:208px;flex-direction:column;flex-shrink:0;border-bottom:none;border-right:1px solid var(--rule);padding:24px 14px;gap:5px;overflow-y:auto;overflow-x:hidden;}
   #donna-app .preview-page-link{white-space:normal;}
   #donna-app .preview-content-wrap{padding:26px 32px;}
   #donna-app .preview-form{padding:0;}
@@ -174,13 +173,13 @@ body{
 <div class="preview-page" id="preview-page">
   <div class="preview-topnav">
     <img src="https://images.squarespace-cdn.com/content/v1/6917a97d1c874d0b1227932c/5784ee69-194b-43a2-a2d5-c3ada0fef1e0/HPF+Logo+%28Full%2C+Side%2C+White+and+Yellow%2C+No+Background%29.png?format=1500w" alt="Hartenstein Poor & Foster LLC" style="height:32px;max-width:160px;object-fit:contain;margin-right:20px;" onerror="this.style.display='none';document.getElementById('topnav-name').style.display='block'"/><span class="preview-firm-name" id="topnav-name" style="display:none">Hartenstein Poor & Foster LLC</span>
-    <div class="preview-part-tabs" id="preview-part-tabs"></div>
     <div class="preview-draft-saved"><span class="preview-draft-dot"></span>Draft saved</div>
   </div>
   <div class="preview-body">
     <div class="preview-sidebar" id="preview-sidebar"></div>
     <div class="preview-main">
       <div class="preview-content-wrap">
+        <div class="preview-part-tabs" id="preview-part-tabs"></div>
         <div class="preview-form">
           <div id="preview-form-container">
             <div class="preview-form-title" id="preview-page-title">Let&rsquo;s get started</div>
@@ -349,7 +348,7 @@ function renderPreviewSidebar() {
   var lastPart=-1;
   form.pages.forEach(function(p,i){
     var thisPart=form.pagePartMap[i];
-    if(thisPart!==lastPart){ if(lastPart!==-1) html+='<div style="height:6px"></div>'; lastPart=thisPart; }
+    if(thisPart!==lastPart){ if(lastPart!==-1) html+='<div style="height:14px"></div>'; lastPart=thisPart; }
     var cls='preview-page-link';
     if(i===currentPreviewPage) cls+=' pv-active';
     else if(i<currentPreviewPage) cls+=' pv-done';

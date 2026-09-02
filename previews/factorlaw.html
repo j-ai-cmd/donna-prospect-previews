@@ -53,10 +53,10 @@ body{
   white-space:nowrap;overflow:hidden;text-overflow:ellipsis;max-width:60vw;
 }
 #donna-app .preview-topnav img{height:26px;max-width:120px;object-fit:contain;margin-right:14px;flex-shrink:0;}
-/* section tabs — sit directly above the form, not in the topnav */
-#donna-app .preview-part-tabs{display:flex;gap:4px 22px;flex-wrap:wrap;border-bottom:1px solid var(--rule);margin-bottom:22px;overflow-x:auto;-webkit-overflow-scrolling:touch;scrollbar-width:none;}
+/* section tabs — back in the topnav, to the right of the logo */
+#donna-app .preview-part-tabs{display:flex;gap:4px 20px;order:3;width:100%;flex-wrap:nowrap;overflow-x:auto;-webkit-overflow-scrolling:touch;scrollbar-width:none;}
 #donna-app .preview-part-tabs::-webkit-scrollbar{display:none;}
-#donna-app .preview-part-tab{flex-shrink:0;padding:0 0 11px;font-size:0.8rem;font-weight:500;color:var(--ink-2);border:none;background:none;border-bottom:2.5px solid transparent;white-space:nowrap;font-family:'Inter',sans-serif;transition:color 150ms var(--ease-out),border-color 150ms var(--ease-out);}
+#donna-app .preview-part-tab{flex-shrink:0;padding:9px 0;font-size:0.78rem;font-weight:500;color:var(--ink-2);border:none;background:none;border-bottom:2.5px solid transparent;white-space:nowrap;font-family:'Inter',sans-serif;transition:color 150ms var(--ease-out),border-color 150ms var(--ease-out);}
 #donna-app .preview-part-tab:hover{color:var(--ink);}
 #donna-app .preview-part-tab.pv-tab-active{color:var(--firm-primary);border-bottom-color:var(--firm-primary);font-weight:600;}
 #donna-app .preview-draft-dot{width:6px;height:6px;border-radius:50%;background:#1a8a52;flex-shrink:0;}
@@ -165,6 +165,8 @@ body{
   #donna-app .preview-page{border:1px solid var(--rule);}
   #donna-app .preview-topnav{flex-wrap:nowrap;height:54px;padding:0 22px;}
   #donna-app .preview-firm-name{font-size:1.2rem;max-width:280px;}
+  #donna-app .preview-part-tabs{order:0;width:auto;flex:1;height:100%;align-items:center;}
+  #donna-app .preview-part-tab{height:100%;padding:0 4px;}
   #donna-app .preview-body{flex-direction:row;}
   #donna-app .preview-sidebar{width:208px;flex-direction:column;flex-shrink:0;border-bottom:none;border-right:1px solid var(--rule);padding:24px 14px;overflow-y:auto;overflow-x:hidden;}
   #donna-app .preview-page-link{white-space:normal;margin-right:0;margin-bottom:3px;}
@@ -178,12 +180,12 @@ body{
 <div class="preview-page" id="preview-page">
   <div class="preview-topnav">
     <img src="https://www.wfactorlaw.com/wp-content/uploads/sites/645/2022/11/logo-factor.png" alt="FactorLaw" style="height:32px;max-width:160px;object-fit:contain;margin-right:20px;" onerror="this.style.display='none';document.getElementById('topnav-name').style.display='block'"/><span class="preview-firm-name" id="topnav-name" style="display:none">FactorLaw</span>
+  <div class="preview-part-tabs" id="preview-part-tabs"></div>
   </div>
   <div class="preview-body">
     <div class="preview-sidebar" id="preview-sidebar"></div>
     <div class="preview-main">
       <div class="preview-content-wrap">
-        <div class="preview-part-tabs" id="preview-part-tabs"></div>
         <div class="preview-form">
           <div id="preview-form-container">
             <div class="preview-form-title" id="preview-page-title">Let&rsquo;s get started</div>
